@@ -1,0 +1,1570 @@
+{
+  "hits": [
+    {
+      "code": "5060448760404",
+      "brands": [
+        "Seedlip"
+      ],
+      "nutriments": {
+        "sugars_100g": 3.92,
+        "fat_100g": 0.1,
+        "sodium_100g": 0,
+        "energy-kj_100g": 88,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 4.32
+      },
+      "product_name": "Grove 42 & Lemongrass Tonic"
+    },
+    {
+      "code": "5000128158862",
+      "brands": [
+        "Coop"
+      ],
+      "nutriments": {
+        "proteins_100g": 0.5,
+        "sugars_100g": 0.5,
+        "fat_100g": 0.5,
+        "saturated-fat_100g": 0.1,
+        "carbohydrates_100g": 0.5,
+        "energy-kcal_100g": 2
+      },
+      "product_name": "Diet Bitter Lemon"
+    },
+    {
+      "code": "90446344",
+      "brands": [
+        "Red Bull"
+      ],
+      "product_name": "Redbull"
+    },
+    {
+      "code": "5054267001299",
+      "brands": [
+        "Lucozade"
+      ],
+      "nutriments": {
+        "sodium_100g": 0.024,
+        "carbohydrates_100g": 8.4,
+        "sugars_100g": 4.5,
+        "salt_100g": 0.06,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "energy-kcal_100g": 35
+      },
+      "product_name": "Orange"
+    },
+    {
+      "code": "5449000052971",
+      "brands": [
+        "Coca-Cola",
+        "Coca-Cola Life"
+      ],
+      "nutriments": {
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0,
+        "energy-kj_100g": 114,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 27,
+        "carbohydrates_100g": 6.7,
+        "sugars_100g": 6.7
+      }
+    },
+    {
+      "code": "5449000086877",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "energy-kj_100g": 180,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "sugars_100g": 10.6,
+        "carbohydrates_100g": 10.6,
+        "proteins_100g": 0
+      },
+      "product_name": "Coca-Cola"
+    },
+    {
+      "code": "5449000119056",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "fiber_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0.05,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.02,
+        "energy-kcal_100g": 43,
+        "proteins_100g": 0,
+        "carbohydrates_100g": 10.5,
+        "sugars_100g": 10.5
+      },
+      "product_name": "Fanta Shokata"
+    },
+    {
+      "code": "5449000096968",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "carbohydrates_100g": 7.9,
+        "sugars_100g": 7.9,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0.008,
+        "energy-kj_100g": 139
+      },
+      "product_name": "Apple & Sour Cherry"
+    },
+    {
+      "code": "54491076",
+      "brands": [
+        "Coke"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "energy-kcal_100g": 0,
+        "saturated-fat_100g": 0,
+        "proteins_100g": 0,
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0
+      },
+      "product_name": "Diet Coke"
+    },
+    {
+      "code": "8718858612581",
+      "brands": [
+        "Candy can"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 1,
+        "energy-kj_100g": 5,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.03,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.012,
+        "sugars_100g": 0
+      },
+      "product_name": "Sparkling winter edition drink"
+    },
+    {
+      "code": "5000382115007",
+      "brands": [
+        "Barr"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 1,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "ice cream soda"
+    },
+    {
+      "code": "0012000150050",
+      "brands": [
+        "TWST"
+      ],
+      "nutriments": {
+        "sugars_100g": 10.42,
+        "carbohydrates_100g": 10.42,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 39.44,
+        "sodium_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.025,
+        "fat_100g": 0
+      },
+      "product_name": "Sierra mist soda"
+    },
+    {
+      "code": "4060800171702",
+      "brands": [
+        "Pepsi",
+        " Pepsi-Cola",
+        " Pepsico"
+      ],
+      "nutriments": {
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 1,
+        "sodium_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "fiber_100g": 0
+      },
+      "product_name": "Pepsi max cherry"
+    },
+    {
+      "code": "5060602580251",
+      "brands": [
+        "Punchy"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 2.4,
+        "energy-kcal_100g": 14,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 2.4
+      },
+      "product_name": "Cucumber, yuzu & rosemary"
+    },
+    {
+      "code": "5000382115236",
+      "brands": [
+        "Barr"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 3.9,
+        "energy-kcal_100g": 16,
+        "energy-kj_100g": 70,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 3.9
+      },
+      "product_name": "Tizer"
+    },
+    {
+      "code": "87170795",
+      "brands": [
+        "Pepsi"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.8,
+        "energy-kj_100g": 3.2,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.052,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.0208,
+        "sugars_100g": 0
+      },
+      "product_name": "Pepsi"
+    },
+    {
+      "code": "4060800309099",
+      "brands": [
+        "Pepsi"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.5,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Pepsi max mango"
+    },
+    {
+      "code": "5057753892302",
+      "product_name": "Tesco Diet Cola can"
+    },
+    {
+      "code": "4060800308375",
+      "brands": [
+        "Pepsi"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "sugars_100g": 4.6,
+        "energy-kcal_100g": 18,
+        "energy-kj_100g": 78,
+        "sodium_100g": 0.004,
+        "carbohydrates_100g": 4.6,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.01
+      },
+      "product_name": "6 Pepsi Multipack"
+    },
+    {
+      "code": "5060909050006",
+      "brands": [
+        "Mamuda"
+      ],
+      "product_name": "Pop Cola"
+    },
+    {
+      "code": "0362881377498"
+    },
+    {
+      "code": "4060800310033"
+    },
+    {
+      "code": "4088600373843",
+      "brands": [
+        "Vive"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.5,
+        "energy-kcal_100g": 0,
+        "fat_100g": 0.5,
+        "fiber_100g": 0.5,
+        "proteins_100g": 0.5,
+        "salt_100g": 0.03,
+        "saturated-fat_100g": 0.1,
+        "sodium_100g": 0.012,
+        "sugars_100g": 0.5
+      },
+      "product_name": "Zx Cola"
+    },
+    {
+      "code": "5010102242869",
+      "brands": [
+        "Robinsons"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 3,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Orange Squash"
+    },
+    {
+      "code": "5449000015174",
+      "brands": [
+        "Coca cola"
+      ],
+      "product_name": "Coke"
+    },
+    {
+      "code": "4060800001771",
+      "brands": [
+        "pepsi"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.9,
+        "energy-kcal_100g": 44,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.9
+      },
+      "product_name": "Pepsi-cola"
+    },
+    {
+      "code": "9350271000089",
+      "brands": [
+        "Remedy Kombucha",
+        "Remedy"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.0303,
+        "energy-kcal_100g": 2.73,
+        "energy-kj_100g": 11.5,
+        "fat_100g": 0.0303,
+        "fiber_100g": 0.152,
+        "proteins_100g": 0.0303,
+        "salt_100g": 0.00303,
+        "saturated-fat_100g": 0.0303,
+        "sodium_100g": 0.00121
+      },
+      "product_name": "Organic Kombucha Raspberry Lemonade"
+    },
+    {
+      "code": "5000193730574",
+      "brands": [
+        "Schweppes"
+      ],
+      "product_name": "Slimline Lemonade"
+    },
+    {
+      "code": "5010102243309",
+      "brands": [
+        "Robinson's"
+      ],
+      "product_name": "Real fruit double strength orange & pineapple, concentrated soft drink with sweeteners"
+    },
+    {
+      "code": "4060800303141",
+      "brands": [
+        "Pepsi"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 43.9,
+        "energy-kj_100g": 187,
+        "fat_100g": 0,
+        "salt_100g": 0.00303,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.00121,
+        "sugars_100g": 10.9
+      },
+      "product_name": "Pepsi"
+    },
+    {
+      "code": "5060193938349",
+      "product_name": "Pop"
+    },
+    {
+      "code": "4864467414963",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.4,
+        "energy-kj_100g": 1.6,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Diet Coke"
+    },
+    {
+      "code": "00050678",
+      "brands": [
+        "Marks & Spencer",
+        "M&S",
+        " Waitrose"
+      ],
+      "nutriments": {
+        "fat_100g": 0.1,
+        "fiber_100g": 0.1,
+        "saturated-fat_100g": 0.1,
+        "salt_100g": 0.02,
+        "sodium_100g": 0.008,
+        "energy-kcal_100g": 1,
+        "proteins_100g": 0.1,
+        "sugars_100g": 0.1,
+        "carbohydrates_100g": 0.1
+      },
+      "product_name": "Diet sparkling fiery ginger beer"
+    },
+    {
+      "code": "5057753032869",
+      "nutriments": {
+        "salt_100g": 0.1,
+        "carbohydrates_100g": 0.1,
+        "saturated-fat_100g": 0.1,
+        "sodium_100g": 0.04,
+        "energy-kcal_100g": 1,
+        "sugars_100g": 0.1,
+        "proteins_100g": 0.1,
+        "fat_100g": 0.1
+      },
+      "product_name": "diet lemonade"
+    },
+    {
+      "code": "5010251593379",
+      "brands": [
+        "Morrisons"
+      ],
+      "nutriments": {
+        "sugars_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 12,
+        "energy-kcal_100g": 1,
+        "salt_100g": 30,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 0.2
+      },
+      "product_name": "Cola"
+    },
+    {
+      "code": "5449000117106",
+      "brands": [
+        "Coca Cola",
+        " Coke"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 0.4,
+        "sodium_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Diet Coke No Caffiene 8x330ml Cans"
+    },
+    {
+      "code": "5000382106609",
+      "brands": [
+        "KA"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "sugars_100g": 3.9,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 16,
+        "sodium_100g": 0.004,
+        "salt_100g": 0.01,
+        "carbohydrates_100g": 4,
+        "saturated-fat_100g": 0
+      },
+      "product_name": "Karibbean kola"
+    },
+    {
+      "code": "4060800171467",
+      "brands": [
+        "PepsiCo"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "sugars_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "energy-kj_100g": 7,
+        "energy-kcal_100g": 0.4,
+        "sodium_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 0
+      },
+      "product_name": "Max"
+    },
+    {
+      "code": "5449000218162",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "salt_100g": 0,
+        "energy-kcal_100g": 32,
+        "fat_100g": 0,
+        "sugars_100g": 7.7,
+        "saturated-fat_100g": 0,
+        "proteins_100g": 0,
+        "carbohydrates_100g": 7.7
+      },
+      "product_name": "B\u00edl\u00e9 hrozno"
+    },
+    {
+      "code": "5010438007767",
+      "brands": [
+        "Vimto"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "fiber_100g": 0,
+        "sugars_100g": 0.5,
+        "carbohydrates_100g": 0.5,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.02,
+        "energy-kcal_100g": 3,
+        "sodium_100g": 0.008
+      },
+      "product_name": "Fizzy Zero"
+    },
+    {
+      "code": "40608044",
+      "brands": [
+        "PepsiCo",
+        "Pepsi"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "sugars_100g": 0,
+        "proteins_100g": 0,
+        "energy-kj_100g": 2,
+        "energy-kcal_100g": 0.4,
+        "sodium_100g": 0,
+        "salt_100g": 0,
+        "carbohydrates_100g": 0,
+        "saturated-fat_100g": 0
+      },
+      "product_name": "Pepsi max"
+    },
+    {
+      "code": "4060800302694",
+      "brands": [
+        "Pepsi",
+        "PepsiCo"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "sugars_100g": 0,
+        "proteins_100g": 0.1,
+        "fiber_100g": 0,
+        "energy-kcal_100g": 0.5,
+        "sodium_100g": 0.004,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 0.1
+      },
+      "product_name": "Pepsi max rasberry"
+    },
+    {
+      "code": "20800291",
+      "brands": [
+        "CARRICK GLEN"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "carbohydrates_100g": 0,
+        "salt_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "sugars_100g": 0,
+        "energy-kcal_100g": 0,
+        "energy-kj_100g": 0,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0
+      },
+      "product_name": "Water"
+    },
+    {
+      "code": "5000112649871",
+      "brands": [
+        "Coke"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "sugars_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0,
+        "energy-kcal_100g": 1,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 0,
+        "salt_100g": 0
+      },
+      "product_name": "diet coke"
+    },
+    {
+      "code": "47958531",
+      "nutriments": {
+        "carbohydrates_100g": 0.2,
+        "saturated-fat_100g": 0,
+        "energy-kcal_100g": 0.3,
+        "fat_100g": 0,
+        "sugars_100g": 0,
+        "proteins_100g": 0
+      },
+      "product_name": "Coca cola zero"
+    },
+    {
+      "code": "18537910",
+      "brands": [
+        "Fanta"
+      ],
+      "product_name": "Fanta"
+    },
+    {
+      "code": "5060108454643",
+      "nutriments": {
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 4.7,
+        "energy-kcal_100g": 19,
+        "sugars_100g": 4.7,
+        "proteins_100g": 0,
+        "fat_100g": 0
+      },
+      "product_name": "Rhubarb & Raspberry tonic water"
+    },
+    {
+      "code": "4000177029541",
+      "brands": [
+        "Capri-Sun"
+      ],
+      "product_name": "caprisun"
+    },
+    {
+      "code": "4056489010364",
+      "brands": [
+        "Freeway"
+      ],
+      "nutriments": {
+        "fiber_100g": 0,
+        "proteins_100g": 0.1,
+        "sugars_100g": 4.8,
+        "fat_100g": 0.1,
+        "carbohydrates_100g": 4.9,
+        "saturated-fat_100g": 0.1,
+        "salt_100g": 0.1,
+        "sodium_100g": 0.04,
+        "energy-kcal_100g": 20
+      },
+      "product_name": "Freeway Cola"
+    },
+    {
+      "code": "5029396003315",
+      "brands": [
+        "Fentimans"
+      ],
+      "nutriments": {
+        "saturated-fat_100g": 0,
+        "energy-kcal_100g": 19,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "sugars_100g": 4,
+        "carbohydrates_100g": 4.1,
+        "fat_100g": 0
+      },
+      "product_name": "Cherry Cola"
+    },
+    {
+      "code": "5029396003483",
+      "brands": [
+        "Fentimans"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 17,
+        "sodium_100g": 1.2,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 4.1,
+        "salt_100g": 3,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "sugars_100g": 3.9
+      },
+      "product_name": "Fentiman's Raspberry Lemonade"
+    },
+    {
+      "code": "5449000305046",
+      "brands": [
+        "Schweppes"
+      ],
+      "nutriments": {
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 4.9,
+        "sodium_100g": 0,
+        "energy-kcal_100g": 21,
+        "sugars_100g": 4.9,
+        "proteins_100g": 0,
+        "fat_100g": 0
+      },
+      "product_name": "Schweppes Indian Tonic Water"
+    },
+    {
+      "code": "4056489384021",
+      "brands": [
+        "Lidl"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "sodium_100g": 0,
+        "energy-kcal_100g": 6,
+        "proteins_100g": 0,
+        "fiber_100g": 0,
+        "sugars_100g": 0,
+        "fat_100g": 0
+      },
+      "product_name": "Premium Light Tonic Water"
+    },
+    {
+      "code": "6009704170471",
+      "product_name": "Diet coke"
+    },
+    {
+      "code": "4060800311238",
+      "brands": [
+        "7UP"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "sugars_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0.016,
+        "energy-kcal_100g": 2,
+        "energy-kj_100g": 8,
+        "carbohydrates_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.04
+      },
+      "product_name": "7up zero sugar"
+    },
+    {
+      "code": "5060054132466",
+      "brands": [
+        "Cawston"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "energy-kj_100g": 79,
+        "energy-kcal_100g": 19,
+        "salt_100g": 0,
+        "carbohydrates_100g": 4.5,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 4.3,
+        "proteins_100g": 0.1,
+        "fat_100g": 0.1
+      },
+      "product_name": "Cawston Press Cloudy Apple"
+    },
+    {
+      "code": "5000112552119",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "sugars_100g": 4.5,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "energy-kcal_100g": 19,
+        "carbohydrates_100g": 4.5,
+        "salt_100g": 0,
+        "proteins_100g": 0
+      },
+      "product_name": "Fanta orange"
+    },
+    {
+      "code": "5449000309822",
+      "brands": [
+        "Coca Cola",
+        "Coca-Cola Company"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "fiber_100g": 0,
+        "sugars_100g": 0,
+        "fat_100g": 0,
+        "carbohydrates_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.03,
+        "sodium_100g": 0.012,
+        "energy-kcal_100g": 1,
+        "energy-kj_100g": 3.2
+      },
+      "product_name": "Coca-Cola Intergalactic"
+    },
+    {
+      "code": "5029396002509",
+      "brands": [
+        "Fentimans"
+      ],
+      "nutriments": {
+        "salt_100g": 0.01,
+        "carbohydrates_100g": 9.2,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "energy-kj_100g": 176,
+        "energy-kcal_100g": 41,
+        "sugars_100g": 7.5,
+        "proteins_100g": 0,
+        "fiber_100g": 0,
+        "fat_100g": 0
+      },
+      "product_name": "Rose Lemonade"
+    },
+    {
+      "code": "4088600415932",
+      "brands": [
+        "Aldi"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "sugars_100g": 43,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "carbohydrates_100g": 43,
+        "saturated-fat_100g": 0,
+        "energy-kcal_100g": 17,
+        "sodium_100g": 0
+      },
+      "product_name": "Tonic water"
+    },
+    {
+      "code": "8002270836824",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "sugars_100g": 4.4,
+        "fiber_100g": 0,
+        "proteins_100g": 0.1,
+        "fat_100g": 0,
+        "carbohydrates_100g": 4.4,
+        "saturated-fat_100g": 0,
+        "energy-kcal_100g": 19
+      },
+      "product_name": "Aranaciata"
+    },
+    {
+      "code": "5054781823605",
+      "brands": [
+        "Asda"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 14,
+        "sodium_100g": 0.048,
+        "salt_100g": 0.12,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 0,
+        "fat_100g": 0,
+        "sugars_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0
+      },
+      "product_name": "Lemonade"
+    },
+    {
+      "code": "02025122",
+      "brands": [
+        "Morrissons"
+      ],
+      "nutriments": {
+        "salt_100g": 0.025,
+        "carbohydrates_100g": 2.1,
+        "sodium_100g": 0.01,
+        "energy-kj_100g": 40,
+        "energy-kcal_100g": 10,
+        "sugars_100g": 2.1
+      },
+      "product_name": "Lemonade"
+    },
+    {
+      "code": "00464741",
+      "brands": [
+        "By sainsbury's"
+      ],
+      "nutriments": {
+        "sugars_100g": 0.5,
+        "fiber_100g": 0.5,
+        "proteins_100g": 0.5,
+        "fat_100g": 0.5,
+        "salt_100g": 0.04,
+        "carbohydrates_100g": 0.5,
+        "saturated-fat_100g": 0.1,
+        "sodium_100g": 0.016,
+        "energy-kj_100g": 46,
+        "energy-kcal_100g": 1
+      },
+      "product_name": "Apple and blackcurrant squash"
+    },
+    {
+      "code": "5949000504765",
+      "brands": [
+        "Pepsi"
+      ],
+      "product_name": "Pepsi Twist"
+    },
+    {
+      "code": "29303526",
+      "brands": [
+        "Marks & Spencer"
+      ],
+      "nutriments": {
+        "sodium_100g": 0.004,
+        "energy-kcal_100g": 27,
+        "energy-kj_100g": 116,
+        "carbohydrates_100g": 6.8,
+        "saturated-fat_100g": 0.1,
+        "salt_100g": 0.01,
+        "proteins_100g": 0.1,
+        "fiber_100g": 0.5,
+        "sugars_100g": 6.8,
+        "fat_100g": 0.1
+      },
+      "product_name": "Still -  Raspberry Lemonade"
+    },
+    {
+      "code": "5010251508984",
+      "brands": [
+        "Morrisons"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "sugars_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.4,
+        "sodium_100g": 0
+      },
+      "product_name": "Cream soda"
+    },
+    {
+      "code": "5000112592245",
+      "product_name": "Pack - sodas"
+    },
+    {
+      "code": "4088600274157",
+      "brands": [
+        "vive"
+      ],
+      "nutriments": {
+        "fat_100g": 0.5,
+        "sugars_100g": 0.5,
+        "proteins_100g": 0.5,
+        "fiber_100g": 0.5,
+        "carbohydrates_100g": 0.5,
+        "saturated-fat_100g": 0.1,
+        "energy-kcal_100g": 0
+      },
+      "product_name": "Cherry cola"
+    },
+    {
+      "code": "5060699470008",
+      "nutriments": {
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "sugars_100g": 4.6,
+        "energy-kcal_100g": 23,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 5.3
+      },
+      "product_name": "Lime and soda"
+    },
+    {
+      "code": "4060800166531",
+      "brands": [
+        "Pepsi",
+        "Pepsi Cola Co."
+      ],
+      "nutriments": {
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.6,
+        "proteins_100g": 0,
+        "energy-kj_100g": 3,
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0
+      },
+      "product_name": "Pepsi Cola - Cherry 2L"
+    },
+    {
+      "code": "4060800103307",
+      "brands": [
+        "Pepsico"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "fiber_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 0,
+        "sugars_100g": 0,
+        "energy-kcal_100g": 0,
+        "proteins_100g": 0
+      },
+      "product_name": "Pepsi max"
+    },
+    {
+      "code": "4060800134943",
+      "brands": [
+        "pepsi"
+      ],
+      "nutriments": {
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 2,
+        "carbohydrates_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Pepsi Max"
+    },
+    {
+      "code": "5000147030651",
+      "brands": [
+        "Robinsons"
+      ],
+      "nutriments": {
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.35000000000000003,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "sodium_100g": 0.14,
+        "energy-kj_100g": 42,
+        "proteins_100g": 0.2,
+        "energy-kcal_100g": 10,
+        "sugars_100g": 0.3
+      },
+      "product_name": "Robinsons lemon Squash"
+    },
+    {
+      "code": "5000112606584",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "product_name": "Coca Cola Cherry"
+    },
+    {
+      "code": "5000347010804",
+      "brands": [
+        "Lucozade"
+      ],
+      "product_name": "Pink Lemonade"
+    },
+    {
+      "code": "5029578000200",
+      "brands": [
+        "Old Jamaica"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "carbohydrates_100g": 16,
+        "sugars_100g": 16,
+        "energy-kcal_100g": 64,
+        "proteins_100g": 0
+      },
+      "product_name": "Ginger Beer with Fiery Jamaican Root Ginger"
+    },
+    {
+      "code": "5029788180099",
+      "brands": [
+        "Tropical Sun"
+      ],
+      "nutriments": {
+        "energy-kj_100g": 148,
+        "sodium_100g": 0.004,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.01,
+        "sugars_100g": 12,
+        "carbohydrates_100g": 12,
+        "energy-kcal_100g": 48,
+        "proteins_100g": 0
+      },
+      "product_name": "Root Beer"
+    },
+    {
+      "code": "5000112628722",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "product_name": "Coca cola zero sugar"
+    },
+    {
+      "code": "5000128519199",
+      "brands": [
+        "Co-op"
+      ],
+      "nutriments": {
+        "proteins_100g": 0.5,
+        "sugars_100g": 0.5,
+        "carbohydrates_100g": 0.5,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.01,
+        "fat_100g": 0,
+        "sodium_100g": 0.004,
+        "energy-kcal_100g": 1
+      },
+      "product_name": "Diet cola"
+    },
+    {
+      "code": "5000112639605",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.7,
+        "sugars_100g": 0.7,
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "energy-kcal_100g": 4,
+        "salt_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0
+      },
+      "product_name": "Fanta Grape"
+    },
+    {
+      "code": "5000112641691",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "product_name": "Coca-Cola z\u00e9ro\u2122citron"
+    },
+    {
+      "code": "21105593",
+      "brands": [
+        "Asda"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 1,
+        "fat_100g": 0,
+        "salt_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 0,
+        "sugars_100g": 0,
+        "sodium_100g": 0
+      },
+      "product_name": "Diet Cola"
+    },
+    {
+      "code": "01511123",
+      "brands": [
+        "Sainsbury's",
+        " Taste the difference"
+      ],
+      "nutriments": {
+        "sodium_100g": 0.00399999991059304,
+        "salt_100g": 0.0099999997764826,
+        "saturated-fat_100g": 0.10000000149012,
+        "fiber_100g": 0.5,
+        "fat_100g": 0.5,
+        "sugars_100g": 7.0999999046326,
+        "carbohydrates_100g": 7.4000000953674,
+        "proteins_100g": 0.5,
+        "energy-kcal_100g": 30
+      },
+      "product_name": "Taste the Difference Lemonade"
+    },
+    {
+      "code": "4060800171122",
+      "brands": [
+        "Pepsi",
+        "Pepsi-Cola"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "energy-kcal_100g": 0.4,
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0
+      },
+      "product_name": "Pepsi max"
+    },
+    {
+      "code": "00030083",
+      "brands": [
+        "By Sainsbury's"
+      ],
+      "nutriments": {
+        "sodium_100g": 0.012,
+        "carbohydrates_100g": 3.5,
+        "sugars_100g": 3.5,
+        "salt_100g": 0.03,
+        "proteins_100g": 0.5,
+        "saturated-fat_100g": 0.1,
+        "fat_100g": 0.5,
+        "energy-kcal_100g": 15
+      },
+      "product_name": "Lemonade"
+    },
+    {
+      "code": "4895058312979",
+      "brands": [
+        "Kiu Fung Hong Ltd"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 5.1,
+        "sugars_100g": 3.5,
+        "proteins_100g": 0,
+        "energy-kj_100g": 87,
+        "sodium_100g": 0.028000000000000004,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.07
+      },
+      "product_name": "EDO Soda Drink - Peach Flavour"
+    },
+    {
+      "code": "5000112631555",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "energy-kcal_100g": 113,
+        "sodium_100g": 0,
+        "carbohydrates_100g": 28,
+        "energy-kj_100g": 478
+      },
+      "product_name": "Cherry Coca Cola"
+    },
+    {
+      "code": "4088600109046",
+      "brands": [
+        "Aldi"
+      ],
+      "nutriments": {
+        "fat_100g": 0.5,
+        "energy-kcal_100g": 1,
+        "salt_100g": 0.01,
+        "proteins_100g": 0.5,
+        "saturated-fat_100g": 0.1,
+        "carbohydrates_100g": 0.5,
+        "sugars_100g": 0.5,
+        "sodium_100g": 0.004
+      },
+      "product_name": "Diet lemonade"
+    },
+    {
+      "code": "00114936",
+      "brands": [
+        "By Sainsbury's"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 20,
+        "fat_100g": 0.5,
+        "proteins_100g": 0.5,
+        "saturated-fat_100g": 0.1,
+        "salt_100g": 0.01,
+        "carbohydrates_100g": 4.8,
+        "sugars_100g": 4.8,
+        "sodium_100g": 0.004
+      },
+      "product_name": "Indian Tonic Water"
+    },
+    {
+      "code": "00154635",
+      "brands": [
+        "Sainsbury's"
+      ],
+      "nutriments": {
+        "sugars_100g": 0.5,
+        "carbohydrates_100g": 0.5,
+        "proteins_100g": 0.5,
+        "energy-kcal_100g": 12,
+        "sodium_100g": 0.064,
+        "energy-kj_100g": 48,
+        "salt_100g": 0.16,
+        "saturated-fat_100g": 0.1,
+        "fiber_100g": 0.5,
+        "fat_100g": 0.5
+      },
+      "product_name": "Bitter lemon"
+    },
+    {
+      "code": "8435185944153",
+      "brands": [
+        "Schweppes"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "energy-kcal_100g": 30,
+        "fat_100g": 0,
+        "carbohydrates_100g": 7.3,
+        "sugars_100g": 7.2
+      },
+      "product_name": "Citrus mix"
+    },
+    {
+      "code": "8714800004336",
+      "brands": [
+        "Dr Pepper",
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "sugars_100g": 7.2,
+        "carbohydrates_100g": 7.2,
+        "proteins_100g": 0,
+        "sodium_100g": 0,
+        "energy-kj_100g": 123,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "fiber_100g": 0
+      },
+      "product_name": "Dr Pepper"
+    },
+    {
+      "code": "9311493000608",
+      "brands": [
+        "Bundaberg"
+      ],
+      "nutriments": {
+        "salt_100g": 0.03048,
+        "saturated-fat_100g": 0,
+        "fiber_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0.012192,
+        "energy-kj_100g": 211,
+        "proteins_100g": 0,
+        "sugars_100g": 12.4,
+        "carbohydrates_100g": 12.4
+      },
+      "product_name": "Root beer"
+    },
+    {
+      "code": "5000382102496",
+      "brands": [
+        "Irn-Bru"
+      ],
+      "nutriments": {
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0.004,
+        "energy-kj_100g": 4,
+        "proteins_100g": 0.5,
+        "energy-kcal_100g": 1,
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0
+      },
+      "product_name": "Irn-Bru Xtra"
+    },
+    {
+      "code": "5000382034919",
+      "brands": [
+        "KA"
+      ],
+      "nutriments": {
+        "sodium_100g": 0.012,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.03,
+        "fat_100g": 0,
+        "carbohydrates_100g": 4.6,
+        "sugars_100g": 4.6,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 19
+      },
+      "product_name": "Sparkling Fruit Punch"
+    },
+    {
+      "code": "50382811",
+      "brands": [
+        "Barr",
+        " Irn-Bru"
+      ],
+      "nutriments": {
+        "sodium_100g": 0.004,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.01,
+        "carbohydrates_100g": 0,
+        "sugars_100g": 0,
+        "energy-kcal_100g": 0.7,
+        "proteins_100g": 0.5
+      },
+      "product_name": "Irn-Bru Sugar Free"
+    },
+    {
+      "code": "4088600244051",
+      "nutriments": {
+        "saturated-fat_100g": 0.1,
+        "sugars_100g": 3.1,
+        "carbohydrates_100g": 4.6,
+        "fat_100g": 0.5,
+        "fiber_100g": 0.5,
+        "energy-kcal_100g": 23,
+        "proteins_100g": 0.5
+      },
+      "product_name": "Sun quench blackcurrant  juice"
+    },
+    {
+      "code": "5000169009321",
+      "brands": [
+        "Essential Waitrose",
+        " Skittles"
+      ],
+      "nutriments": {
+        "salt_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 4.9,
+        "fat_100g": 0,
+        "energy-kcal_100g": 20,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 4.9,
+        "fiber_100g": 0
+      },
+      "product_name": "Indian tonic water"
+    },
+    {
+      "code": "5000119092274",
+      "brands": [
+        "Tesco"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "sugars_100g": 0,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 2,
+        "energy-kj_100g": 7,
+        "carbohydrates_100g": 0,
+        "saturated-fat_100g": 0,
+        "fiber_100g": 0
+      },
+      "product_name": "indian tonic water"
+    }
+  ],
+  "aggregations": null,
+  "facets": {},
+  "charts": {},
+  "page": 1,
+  "page_size": 100,
+  "page_count": 6,
+  "debug": {
+    "query": {
+      "query": {
+        "bool": {
+          "filter": [
+            {
+              "bool": {
+                "must": [
+                  {
+                    "term": {
+                      "categories_tags": {
+                        "value": "en:sodas"
+                      }
+                    }
+                  },
+                  {
+                    "term": {
+                      "countries_tags": {
+                        "value": "en:united-kingdom"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "size": 100,
+      "from": 0
+    }
+  },
+  "took": 10,
+  "timed_out": false,
+  "count": 512,
+  "is_count_exact": true,
+  "warnings": null
+}

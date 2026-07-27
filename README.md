@@ -3,12 +3,8 @@
 
 | GitHub username                           | LSE ID            |
 | ----------------------------------------- | ----------------- |
-| `[username]`                              | `[LSE ID]`        |
-| `[second username, if working in a pair]` | `[second LSE ID]` |
+| JaviMilagro                               | 250100007         |
 
-
-Remove the unused row if you work alone.
-Replace every `[bracketed]` placeholder once you fill it in.
 
 ## Overview
 

@@ -1,0 +1,1744 @@
+{
+  "hits": [
+    {
+      "code": "5449000285720",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 5,
+        "carbohydrates_100g": 0,
+        "proteins_100g": 0,
+        "sugars_100g": 0,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0
+      },
+      "product_name": "Fanta Rasberry"
+    },
+    {
+      "code": "7427137099265",
+      "brands": [
+        "Herbalife"
+      ],
+      "product_name": "Concentrado de S\u00e1bila: Mango 1/2 Gallon"
+    },
+    {
+      "code": "5206542007667",
+      "brands": [
+        "green"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 2,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 2,
+        "fat_100g": 0,
+        "energy-kj_100g": 39,
+        "energy-kcal_100g": 9,
+        "salt_100g": 0.03,
+        "sodium_100g": 0.012
+      },
+      "product_name": "Green Sour Cherry Carbonated"
+    },
+    {
+      "code": "3608330126840",
+      "brands": [
+        "Sun (Refresco)"
+      ],
+      "nutriments": {
+        "fiber_100g": 0,
+        "energy-kcal_100g": 32,
+        "energy-kj_100g": 134,
+        "sugars_100g": 7.6,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0.1,
+        "carbohydrates_100g": 7.6,
+        "proteins_100g": 0.1
+      },
+      "product_name": "Boisson saveur agrumes"
+    },
+    {
+      "code": "5449000242136",
+      "brands": [
+        "Coca Cola",
+        "Coca-Cola-light"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 1.4,
+        "sodium_100g": 0.008,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.02,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca Cola sans sucres"
+    },
+    {
+      "code": "5186020627733",
+      "brands": [
+        "Lorina"
+      ],
+      "nutriments": {
+        "sodium_100g": 2,
+        "salt_100g": 5,
+        "energy-kcal_100g": 30,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 7.4,
+        "proteins_100g": 0.5,
+        "carbohydrates_100g": 7.4
+      },
+      "product_name": "Limonade"
+    },
+    {
+      "code": "3700232400148",
+      "nutriments": {
+        "proteins_100g": 0,
+        "energy-kcal_100g": 32,
+        "carbohydrates_100g": 9.5,
+        "fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 9.5,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0
+      },
+      "product_name": "Cola"
+    },
+    {
+      "code": "5449000119964",
+      "brands": [
+        "Coca cola zero",
+        "Coca Cola",
+        "Coca-Cola-light"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "carbohydrates_100g": 0,
+        "fat_100g": 0,
+        "sugars_100g": 0,
+        "saturated-fat_100g": 0,
+        "energy-kj_100g": 1.4,
+        "energy-kcal_100g": 0.3,
+        "sodium_100g": 0.008,
+        "salt_100g": 0.02
+      },
+      "product_name": "Coca cola zero sucre"
+    },
+    {
+      "code": "3665676000524",
+      "nutriments": {
+        "sodium_100g": 0.00399999991059304,
+        "fiber_100g": 0,
+        "salt_100g": 0.0099999997764826,
+        "energy-kj_100g": 162,
+        "energy-kcal_100g": 38,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 9,
+        "proteins_100g": 0.10000000149012,
+        "carbohydrates_100g": 9.1999998092651
+      },
+      "product_name": "Orangina rouge"
+    },
+    {
+      "code": "01383119",
+      "brands": [
+        "7up"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "sugars_100g": 0,
+        "saturated-fat_100g": 0,
+        "proteins_100g": 0,
+        "carbohydrates_100g": 0,
+        "sodium_100g": 0.016,
+        "fiber_100g": 0,
+        "salt_100g": 0.04,
+        "energy-kcal_100g": 0.6
+      },
+      "product_name": "7up cherry free"
+    },
+    {
+      "code": "5400514341500",
+      "nutriments": {
+        "sugars_100g": 13,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.08,
+        "fat_100g": 0,
+        "sodium_100g": 0.032,
+        "energy-kcal_100g": 38,
+        "carbohydrates_100g": 95,
+        "proteins_100g": 0
+      },
+      "product_name": "Cola bio"
+    },
+    {
+      "code": "8480000290854",
+      "brands": [
+        "Hacendado"
+      ],
+      "nutriments": {
+        "salt_100g": 0.02,
+        "sodium_100g": 0.008,
+        "energy-kj_100g": 2.3,
+        "energy-kcal_100g": 0.5,
+        "sugars_100g": 0,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "carbohydrates_100g": 0.1,
+        "proteins_100g": 0
+      },
+      "product_name": "Cola zero az\u00facar"
+    },
+    {
+      "code": "50414543",
+      "brands": [
+        "Balance"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "carbohydrates_100g": 3.9,
+        "sugars_100g": 3.9,
+        "energy-kcal_100g": 17,
+        "proteins_100g": 0
+      },
+      "product_name": "Tonic Water Bitter Orange & Elderflower"
+    },
+    {
+      "code": "5054267003477",
+      "brands": [
+        "Ribena"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.003,
+        "energy-kj_100g": 10,
+        "sodium_100g": 0.0012000000000000001,
+        "energy-kcal_100g": 2,
+        "proteins_100g": 0,
+        "sugars_100g": 0.3,
+        "carbohydrates_100g": 0.4
+      },
+      "product_name": "Ribena No Added Sugar Concentrated Blackcurrant"
+    },
+    {
+      "code": "5060191280457",
+      "brands": [
+        "Mr.Freeze"
+      ],
+      "nutriments": {
+        "salt_100g": 0.03,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0.012,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 48,
+        "carbohydrates_100g": 11.6,
+        "sugars_100g": 11.5
+      },
+      "product_name": "Mr freeze cola"
+    },
+    {
+      "code": "5060335632531",
+      "brands": [
+        "Monster",
+        "Monster Energy"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 38,
+        "proteins_100g": 0,
+        "carbohydrates_100g": 8.9,
+        "sugars_100g": 8.8,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.18,
+        "sodium_100g": 0.072
+      },
+      "product_name": "Monster Assault Energy"
+    },
+    {
+      "code": "5060466515703",
+      "brands": [
+        "Nalu"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 5.2,
+        "sugars_100g": 4.8,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 20,
+        "sodium_100g": 0.04,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.1,
+        "fat_100g": 0
+      },
+      "product_name": "Nalu frost"
+    },
+    {
+      "code": "5202908000099",
+      "brands": [
+        "Agros"
+      ],
+      "nutriments": {
+        "sodium_100g": 0.02,
+        "carbohydrates_100g": 12,
+        "sugars_100g": 12,
+        "salt_100g": 0.05,
+        "proteins_100g": 0.5,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "energy-kcal_100g": 50
+      },
+      "product_name": "AGROS 1L - LEMONADE - 1.50 Euro"
+    },
+    {
+      "code": "5400601005360",
+      "brands": [
+        "365 Delhaize"
+      ],
+      "nutriments": {
+        "sodium_100g": 0.04,
+        "saturated-fat_100g": 0.1,
+        "salt_100g": 0.1,
+        "fat_100g": 0.1,
+        "fiber_100g": 0.1,
+        "sugars_100g": 7.7,
+        "carbohydrates_100g": 7.8,
+        "proteins_100g": 0.1,
+        "energy-kcal_100g": 32
+      },
+      "product_name": "Lemonade Orange"
+    },
+    {
+      "code": "54004450",
+      "brands": [
+        "Schweppes"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 46,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "carbohydrates_100g": 11.1,
+        "sugars_100g": 11.1,
+        "sodium_100g": 0
+      },
+      "product_name": "Schweppes Ginger  beer et chili"
+    },
+    {
+      "code": "5410033820707",
+      "brands": [
+        "Lipton",
+        "Unilever"
+      ],
+      "nutriments": {
+        "saturated-fat_100g": 0.5,
+        "salt_100g": 0.04,
+        "fat_100g": 0.5,
+        "sodium_100g": 0.016,
+        "energy-kj_100g": 85,
+        "proteins_100g": 0.5,
+        "energy-kcal_100g": 20,
+        "sugars_100g": 4.5,
+        "carbohydrates_100g": 4.7
+      },
+      "product_name": "Sparkling Ice Tea"
+    },
+    {
+      "code": "5410221305306",
+      "brands": [
+        "Schweppes"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "sugars_100g": 0,
+        "energy-kcal_100g": 1,
+        "proteins_100g": 0,
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0
+      },
+      "product_name": "Schweppes-lemon Soda (diet)-330ml-belgium"
+    },
+    {
+      "code": "5413982100005",
+      "brands": [
+        "Tao"
+      ],
+      "nutriments": {
+        "energy-kj_100g": 137,
+        "saturated-fat_100g": 0.1,
+        "fiber_100g": 0.1,
+        "fat_100g": 0.1,
+        "carbohydrates_100g": 7.8,
+        "sugars_100g": 7.2,
+        "proteins_100g": 0.1,
+        "energy-kcal_100g": 32
+      },
+      "product_name": "Tao Vitality - Green Tea, Ginko Biloba, Vitamin C, Biotin"
+    },
+    {
+      "code": "5415270100339",
+      "brands": [
+        "Kidibul"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 42,
+        "proteins_100g": 0,
+        "sugars_100g": 9.5,
+        "carbohydrates_100g": 10.5,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "sodium_100g": 0
+      },
+      "product_name": "Kidibul"
+    },
+    {
+      "code": "5449000000965",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "energy-kj_100g": 180,
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "sugars_100g": 10.6,
+        "carbohydrates_100g": 10.6,
+        "energy-kcal_100g": 42,
+        "proteins_100g": 0
+      },
+      "product_name": "Coca-Cola 6 x 330ml"
+    },
+    {
+      "code": "5449000028938",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "carbohydrates_100g": 9.6,
+        "sugars_100g": 9.6,
+        "energy-kcal_100g": 39,
+        "proteins_100g": 0
+      },
+      "product_name": "Fanta"
+    },
+    {
+      "code": "5449000036889",
+      "brands": [
+        "hawai"
+      ],
+      "nutriments": {
+        "sodium_100g": 0.016800000000000002,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 6,
+        "salt_100g": 0.042,
+        "carbohydrates_100g": 6.66,
+        "energy-kj_100g": 117,
+        "fiber_100g": 0,
+        "energy-kcal_100g": 28,
+        "fat_100g": 0,
+        "proteins_100g": 0
+      },
+      "product_name": "refresco de naranja"
+    },
+    {
+      "code": "5449000052346",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "sugars_100g": 6.7,
+        "carbohydrates_100g": 6.7,
+        "proteins_100g": 0,
+        "energy-kj_100g": 113,
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0
+      },
+      "product_name": "Coca-Cola life "
+    },
+    {
+      "code": "5449000052971",
+      "brands": [
+        "Coca-Cola",
+        "Coca-Cola Life"
+      ],
+      "nutriments": {
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0,
+        "energy-kj_100g": 114,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 27,
+        "carbohydrates_100g": 6.7,
+        "sugars_100g": 6.7
+      }
+    },
+    {
+      "code": "5449000056665",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "proteins_100g": 0,
+        "sodium_100g": 0,
+        "energy-kj_100g": 1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "fiber_100g": 0,
+        "fat_100g": 0
+      },
+      "product_name": "Coca-Cola Light - sans caf\u00e9ine, sans sucre"
+    },
+    {
+      "code": "5449000058362",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "energy-kj_100g": 203,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "carbohydrates_100g": 11.7,
+        "sugars_100g": 11.7,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 48
+      },
+      "product_name": "Fanta"
+    },
+    {
+      "code": "5449000091659",
+      "brands": [
+        "Coca Cola"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "energy-kcal_100g": 20,
+        "sodium_100g": 0,
+        "carbohydrates_100g": 5.1,
+        "sugars_100g": 5
+      },
+      "product_name": "Coca Cola Life 1L MW"
+    },
+    {
+      "code": "5449000100016",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "energy-kcal_100g": 42,
+        "sodium_100g": 0,
+        "carbohydrates_100g": 10.6,
+        "sugars_100g": 10.3
+      },
+      "product_name": "Coca Cola Refresco De Cola"
+    },
+    {
+      "code": "5449000119056",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "fiber_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0.05,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.02,
+        "energy-kcal_100g": 43,
+        "proteins_100g": 0,
+        "carbohydrates_100g": 10.5,
+        "sugars_100g": 10.5
+      },
+      "product_name": "Fanta Shokata"
+    },
+    {
+      "code": "5449000201935",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "saturated-fat_100g": 0,
+        "energy-kj_100g": 1.4,
+        "carbohydrates_100g": 0,
+        "sugars_100g": 0,
+        "proteins_100g": 0,
+        "fiber_100g": 0,
+        "energy-kcal_100g": 0.3,
+        "sodium_100g": 0.004,
+        "fat_100g": 0,
+        "salt_100g": 0.01
+      },
+      "product_name": "Coca-Cola Zero Zero"
+    },
+    {
+      "code": "5449000223050",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "energy-kcal_100g": 43,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.01,
+        "carbohydrates_100g": 10.6,
+        "sugars_100g": 10.6,
+        "sodium_100g": 0.004
+      },
+      "product_name": "Coca-cola Lime 1L"
+    },
+    {
+      "code": "5449000223494",
+      "brands": [
+        "Finley"
+      ],
+      "nutriments": {
+        "sugars_100g": 3.9,
+        "carbohydrates_100g": 3.9,
+        "energy-kcal_100g": 19,
+        "proteins_100g": 0,
+        "energy-kj_100g": 80,
+        "sodium_100g": 0.024,
+        "fat_100g": 0,
+        "salt_100g": 0.06,
+        "saturated-fat_100g": 0
+      },
+      "product_name": "Fines Bulles Spritz"
+    },
+    {
+      "code": "5449000223548",
+      "brands": [
+        "Coca cola zero",
+        "Coca-Cola-light"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 0,
+        "fiber_100g": 0,
+        "saturated-fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "sugars_100g": 0,
+        "sodium_100g": 0
+      },
+      "product_name": "Coca-cola light sans caf\u00e9ine pet"
+    },
+    {
+      "code": "5449000224040",
+      "brands": [
+        "The Coca-Cola Company",
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "sodium_100g": 0.008,
+        "salt_100g": 0.020000000000000007,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 3
+      },
+      "product_name": "Coca-Cola Zero Sucres"
+    },
+    {
+      "code": "5449000226396",
+      "brands": [
+        "COCA-COLA",
+        "Coca-Cola-light"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 0.9,
+        "proteins_100g": 0,
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.01,
+        "energy-kj_100g": 3.7,
+        "sodium_100g": 0.004
+      },
+      "product_name": "Coca zero lemon"
+    },
+    {
+      "code": "5449000227195",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0.01,
+        "sugars_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 0,
+        "energy-kj_100g": 4,
+        "sodium_100g": 0.004,
+        "energy-kcal_100g": 1
+      },
+      "product_name": "Coca-Cola Lemon saveur citron"
+    },
+    {
+      "code": "5449000228123",
+      "brands": [
+        "Coca-Cola",
+        "Coca-Cola-light"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "energy-kj_100g": 1,
+        "carbohydrates_100g": 0,
+        "sugars_100g": 0,
+        "salt_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0
+      },
+      "product_name": "Coca cola light"
+    },
+    {
+      "code": "5449000237347",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 42,
+        "proteins_100g": 0,
+        "carbohydrates_100g": 10.6,
+        "sugars_100g": 10.6,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "energy-kj_100g": 180,
+        "sodium_100g": 0
+      },
+      "product_name": "Coca Cola"
+    },
+    {
+      "code": "5449000240491",
+      "brands": [
+        "Coca Cola",
+        "Coca-Cola-light"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "energy-kcal_100g": 0,
+        "salt_100g": 0.01,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 0,
+        "sugars_100g": 0,
+        "sodium_100g": 0.004
+      },
+      "product_name": "Coca cola light Mangue"
+    },
+    {
+      "code": "5449000241764",
+      "brands": [
+        "Coca-Cola",
+        "Coca Cola"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 1,
+        "proteins_100g": 0,
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "fiber_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "energy-kj_100g": 4,
+        "sodium_100g": 0.008
+      },
+      "product_name": "Coca z\u00e9ro lemon"
+    },
+    {
+      "code": "5449000242655",
+      "brands": [
+        "Sprite"
+      ],
+      "nutriments": {
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 1,
+        "sodium_100g": 0.008,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.02,
+        "fat_100g": 0
+      },
+      "product_name": "Sprite citron-citron vert-concombre"
+    },
+    {
+      "code": "5449000244475",
+      "brands": [
+        "Sprite"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "carbohydrates_100g": 2,
+        "sugars_100g": 2,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 9
+      },
+      "product_name": "Sprite citron-citron vert"
+    },
+    {
+      "code": "5449000250902",
+      "brands": [
+        "Minute Maid"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 3.9,
+        "sugars_100g": 3.9,
+        "energy-kcal_100g": 17,
+        "proteins_100g": 0,
+        "sodium_100g": 0.012,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.03
+      },
+      "product_name": "Citronnade"
+    },
+    {
+      "code": "54490130",
+      "brands": [
+        "Schweppes"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "sodium_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 12.6,
+        "sugars_100g": 12.6,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 52
+      }
+    },
+    {
+      "code": "5453002980477",
+      "brands": [
+        "28 Drinks"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "energy-kj_100g": 185,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "sugars_100g": 11,
+        "carbohydrates_100g": 11,
+        "proteins_100g": 0
+      },
+      "product_name": "Pink Grapefruit Mint"
+    },
+    {
+      "code": "5449000004864",
+      "brands": [
+        "COCA-COLA"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 14,
+        "proteins_100g": 0,
+        "sugars_100g": 3.3,
+        "carbohydrates_100g": 3.3,
+        "fiber_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004
+      },
+      "product_name": "Sprite"
+    },
+    {
+      "code": "5449000015143",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "energy-kcal_100g": 42,
+        "saturated-fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "sugars_100g": 10.6,
+        "carbohydrates_100g": 10.6,
+        "sodium_100g": 0
+      },
+      "product_name": "Coca cola 6 x 500 ml"
+    },
+    {
+      "code": "5449000019837",
+      "brands": [
+        "Fanta"
+      ],
+      "product_name": "Orange"
+    },
+    {
+      "code": "5449000022653",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 43.2,
+        "proteins_100g": 0,
+        "sugars_100g": 10.6,
+        "carbohydrates_100g": 10.6,
+        "fat_100g": 0,
+        "salt_100g": 0.06654800000000001,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.026619200000000003
+      },
+      "product_name": "Fanta Pomme"
+    },
+    {
+      "code": "5449000036964",
+      "brands": [
+        "COCA-COLA"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "carbohydrates_100g": 10.8,
+        "sugars_100g": 9.62,
+        "energy-kcal_100g": 41,
+        "proteins_100g": 0
+      },
+      "product_name": "Poms"
+    },
+    {
+      "code": "5449000039231",
+      "brands": [
+        "Nordic Mist"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 32,
+        "fat_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 7.8,
+        "energy-kj_100g": 138,
+        "proteins_100g": 0,
+        "sodium_100g": 0,
+        "carbohydrates_100g": 7.8
+      },
+      "product_name": "T\u00f3nica original"
+    },
+    {
+      "code": "5449000052186",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 6.3,
+        "sugars_100g": 6.3,
+        "energy-kcal_100g": 26,
+        "proteins_100g": 0,
+        "energy-kj_100g": 111,
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0
+      },
+      "product_name": "Fanta Citron frapp\u00e9"
+    },
+    {
+      "code": "5449000096333",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 45,
+        "fat_100g": 0,
+        "salt_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 11.2,
+        "sugars_100g": 11.2,
+        "sodium_100g": 0
+      },
+      "product_name": "Coca Cola Waniliowa Coca-cola Vanilla Oryginalna"
+    },
+    {
+      "code": "5449000096968",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "carbohydrates_100g": 7.9,
+        "sugars_100g": 7.9,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0.008,
+        "energy-kj_100g": 139
+      },
+      "product_name": "Apple & Sour Cherry"
+    },
+    {
+      "code": "5449000098153",
+      "brands": [
+        "Coca Cola"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "fiber_100g": 0.1,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "sodium_100g": 0,
+        "energy-kcal_100g": 28,
+        "proteins_100g": 0,
+        "sugars_100g": 10.6,
+        "carbohydrates_100g": 10.6
+      },
+      "product_name": "Coca Cola Vanilla Coke 1.5 Litre"
+    },
+    {
+      "code": "5449000099389",
+      "brands": [
+        "coca-cola"
+      ],
+      "nutriments": {
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "fiber_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 43,
+        "sugars_100g": 10.6,
+        "carbohydrates_100g": 10.6
+      },
+      "product_name": "Coca-cola vanille"
+    },
+    {
+      "code": "5449000109255",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.6,
+        "sugars_100g": 10.6,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 42,
+        "sodium_100g": 0,
+        "energy-kj_100g": 180,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "fiber_100g": 0
+      },
+      "product_name": "Coca Cola Cherry"
+    },
+    {
+      "code": "5449000112668",
+      "brands": [
+        "Nestea",
+        "Nestl\u00e9"
+      ],
+      "nutriments": {
+        "sugars_100g": 4.6,
+        "carbohydrates_100g": 4.6,
+        "energy-kcal_100g": 19.2,
+        "proteins_100g": 0,
+        "energy-kj_100g": 82,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "saturated-fat_100g": 0
+      },
+      "product_name": "Nestea  Mangue Ananas"
+    },
+    {
+      "code": "5449000112965",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "energy-kcal_100g": 34,
+        "sugars_100g": 8.4,
+        "carbohydrates_100g": 8.4,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.01,
+        "fat_100g": 0,
+        "sodium_100g": 0.004
+      },
+      "product_name": "B\u0103utur\u0103 r\u0103coritoare cu aroma de struguri"
+    },
+    {
+      "code": "5449000138040",
+      "brands": [
+        "the Coca-Cola company",
+        "Fanta-light",
+        "Fanta"
+      ],
+      "product_name": "Fanta z\u00e9ro citron frapp\u00e9"
+    },
+    {
+      "code": "5601045000137",
+      "brands": [
+        "Sumol"
+      ],
+      "nutriments": {
+        "sugars_100g": 7.4,
+        "carbohydrates_100g": 7.5,
+        "energy-kcal_100g": 30,
+        "proteins_100g": 0,
+        "energy-kj_100g": 127,
+        "sodium_100g": 0.004,
+        "fat_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0
+      }
+    },
+    {
+      "code": "5449000152473",
+      "brands": [
+        "Coca Cola",
+        "Coca-Cola-light"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "energy-kj_100g": 1.4,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 0.3
+      },
+      "product_name": "Coca cola zero"
+    },
+    {
+      "code": "5449000154750",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 3,
+        "proteins_100g": 0,
+        "sodium_100g": 0.01,
+        "fiber_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0.025,
+        "saturated-fat_100g": 0
+      },
+      "product_name": "Popular Product Today Only Coca Cola Zero 15 x"
+    },
+    {
+      "code": "5449000169334",
+      "brands": [
+        "coca-cola"
+      ],
+      "nutriments": {
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "proteins_100g": 0,
+        "energy-kj_100g": 1.4,
+        "sodium_100g": 0.010159999999999999,
+        "fiber_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0.0254,
+        "saturated-fat_100g": 0
+      },
+      "product_name": "Coca-Cola Zero sans caf\u00e9ine"
+    },
+    {
+      "code": "5449000183217",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "sugars_100g": 11.1,
+        "carbohydrates_100g": 11.1,
+        "proteins_100g": 0,
+        "sodium_100g": 0,
+        "energy-kj_100g": 188,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0
+      }
+    },
+    {
+      "code": "5449000197092",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 10.7,
+        "carbohydrates_100g": 10.7,
+        "energy-kcal_100g": 43,
+        "proteins_100g": 0
+      },
+      "product_name": "Cherry Coke"
+    },
+    {
+      "code": "5449000204356",
+      "brands": [
+        "Finley"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 4.6,
+        "sugars_100g": 4.6,
+        "energy-kcal_100g": 20,
+        "proteins_100g": 0,
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0
+      },
+      "product_name": "Pamplemousse & orange sanguine"
+    },
+    {
+      "code": "5449000204394",
+      "brands": [
+        "Finley"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "energy-kj_100g": 80,
+        "sodium_100g": 0,
+        "energy-kcal_100g": 20,
+        "proteins_100g": 0,
+        "sugars_100g": 4.6,
+        "carbohydrates_100g": 4.6
+      },
+      "product_name": "Finley - Pamplemousse & Orange sanguine"
+    },
+    {
+      "code": "5449000214447",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "sugars_100g": 10.6,
+        "carbohydrates_100g": 10.6,
+        "fat_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "energy-kj_100g": 180,
+        "sodium_100g": 0
+      },
+      "product_name": "Coca-Cola"
+    },
+    {
+      "code": "5449000214843",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "energy-kj_100g": 182,
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "sugars_100g": 10.7,
+        "carbohydrates_100g": 10.7,
+        "energy-kcal_100g": 43,
+        "proteins_100g": 0
+      },
+      "product_name": "Coca-Cola Cherry"
+    },
+    {
+      "code": "5449000223487",
+      "brands": [
+        "Finley"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 19,
+        "fat_100g": 0,
+        "sodium_100g": 0.024,
+        "proteins_100g": 0,
+        "sugars_100g": 3.9,
+        "carbohydrates_100g": 3.9,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.06
+      },
+      "product_name": "Boisson"
+    },
+    {
+      "code": "5449000223968",
+      "brands": [
+        "Coca Cola",
+        "Coca-Cola-light"
+      ],
+      "nutriments": {
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 1,
+        "sodium_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "fiber_100g": 0
+      },
+      "product_name": "Coca cola light mini"
+    },
+    {
+      "code": "5449000226945",
+      "brands": [
+        "Finley"
+      ],
+      "nutriments": {
+        "energy-kj_100g": 80,
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 4.5,
+        "carbohydrates_100g": 4.5,
+        "proteins_100g": 0
+      },
+      "product_name": "Finley Royal"
+    },
+    {
+      "code": "5449000229199",
+      "brands": [
+        "Coca-Cola",
+        "Coca Cola",
+        "Coca-Cola-light"
+      ],
+      "nutriments": {
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "fiber_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0,
+        "energy-kj_100g": 1.4,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 0.3,
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0
+      },
+      "product_name": "Coca Cola Zero sucres 20cl"
+    },
+    {
+      "code": "5449000239594",
+      "brands": [
+        "Coca Cola"
+      ],
+      "nutriments": {
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 0.4,
+        "sodium_100g": 0.004,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.01,
+        "fat_100g": 0
+      },
+      "product_name": "Coca Coca Z\u00e9ro P\u00eaches"
+    },
+    {
+      "code": "5449000251176",
+      "brands": [
+        "The Coca-Cola Company",
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 0.4,
+        "proteins_100g": 0,
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "energy-kj_100g": 1.8,
+        "sodium_100g": 0.004
+      },
+      "product_name": "Coca-Cola Saveur Framboise Z\u00e9ro Sucres"
+    },
+    {
+      "code": "5449000958402",
+      "brands": [
+        "Finley"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "carbohydrates_100g": 4.5,
+        "sugars_100g": 4.5,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "sodium_100g": 0,
+        "energy-kj_100g": 80
+      },
+      "product_name": "Agrume & Grenade"
+    },
+    {
+      "code": "54491076",
+      "brands": [
+        "Coke"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "energy-kcal_100g": 0,
+        "saturated-fat_100g": 0,
+        "proteins_100g": 0,
+        "sugars_100g": 0,
+        "carbohydrates_100g": 0
+      },
+      "product_name": "Diet Coke"
+    },
+    {
+      "code": "5740700989032",
+      "brands": [
+        "Fanta"
+      ],
+      "product_name": "Fanta Peach"
+    },
+    {
+      "code": "5711018021899",
+      "brands": [
+        "caribia"
+      ],
+      "nutriments": {
+        "sodium_100g": 0.004,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.01,
+        "fat_100g": 0,
+        "carbohydrates_100g": 14,
+        "sugars_100g": 14,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 57
+      },
+      "product_name": "Gingerbeer Caribia"
+    },
+    {
+      "code": "5740700994203",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "energy-kcal_100g": 49,
+        "proteins_100g": 0,
+        "carbohydrates_100g": 11.6,
+        "sugars_100g": 11.6
+      },
+      "product_name": "Fanta Lemon"
+    },
+    {
+      "code": "5996379323626",
+      "brands": [
+        "Haribo"
+      ],
+      "nutriments": {
+        "sodium_100g": 0.028000000000000004,
+        "carbohydrates_100g": 77,
+        "sugars_100g": 46,
+        "proteins_100g": 6.9,
+        "saturated-fat_100g": 0.1,
+        "salt_100g": 0.07,
+        "energy-kcal_100g": 343,
+        "fat_100g": 0.5
+      },
+      "product_name": "Happy cola"
+    },
+    {
+      "code": "6036000065910",
+      "brands": [
+        "Padosh Happi Life"
+      ],
+      "nutriments": {
+        "sodium_100g": 0,
+        "sugars_100g": 26,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "carbohydrates_100g": 30,
+        "energy-kj_100g": 390.29,
+        "energy-kcal_100g": 120,
+        "proteins_100g": 0.1,
+        "fat_100g": 0
+      },
+      "product_name": "Non-alcoholic ginger drink"
+    },
+    {
+      "code": "6130093059716",
+      "brands": [
+        "Ifri"
+      ],
+      "nutriments": {
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.023,
+        "fat_100g": 0,
+        "sodium_100g": 0.0092,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 49,
+        "sugars_100g": 12,
+        "carbohydrates_100g": 12
+      },
+      "product_name": "Ifri Citron"
+    },
+    {
+      "code": "6130695111119",
+      "brands": [
+        "Selecti"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.2,
+        "proteins_100g": 0.1,
+        "energy-kcal_100g": 41,
+        "sodium_100g": 0.013000000000000001,
+        "energy-kj_100g": 175.5,
+        "salt_100g": 0.0325,
+        "fat_100g": 0.01
+      },
+      "product_name": "Selecto"
+    },
+    {
+      "code": "6130799002184",
+      "brands": [
+        "Mami Boissons"
+      ],
+      "nutriments": {
+        "proteins_100g": 0,
+        "energy-kcal_100g": 53,
+        "carbohydrates_100g": 14,
+        "sugars_100g": 13.2,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "sodium_100g": 0
+      },
+      "product_name": "Soda"
+    },
+    {
+      "code": "6194019802282",
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "sugars_100g": 10,
+        "proteins_100g": 0,
+        "energy-kcal_100g": 42,
+        "sodium_100g": 0.030000001192092802,
+        "salt_100g": 0.075000002980232,
+        "saturated-fat_100g": 0,
+        "fat_100g": 0
+      },
+      "product_name": "Apla"
+    },
+    {
+      "code": "6920702088028",
+      "brands": [
+        "ELISHA"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "energy-kcal_100g": 14.857142857143,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "carbohydrates_100g": 3.7142857142857,
+        "sugars_100g": 3.7142857142857
+      },
+      "product_name": "Boisson Gazeuse Pomme 33cl"
+    },
+    {
+      "code": "7290008909877",
+      "brands": [
+        "Coca-Cola"
+      ]
+    },
+    {
+      "code": "7610097120074",
+      "brands": [
+        "Rivella"
+      ],
+      "nutriments": {
+        "fat_100g": 0,
+        "energy-kcal_100g": 35,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.03,
+        "carbohydrates_100g": 8.4,
+        "sugars_100g": 8.4,
+        "sodium_100g": 0.012
+      },
+      "product_name": "Rivella"
+    },
+    {
+      "code": "7610029186239",
+      "brands": [
+        "Denner"
+      ],
+      "nutriments": {
+        "sugars_100g": 9,
+        "carbohydrates_100g": 9,
+        "energy-kcal_100g": 37,
+        "proteins_100g": 0,
+        "sodium_100g": 0,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0
+      },
+      "product_name": "Grape-Fruit"
+    },
+    {
+      "code": "7610097111256",
+      "brands": [
+        "Rivella"
+      ],
+      "nutriments": {
+        "proteins_100g": 0.03,
+        "sugars_100g": 9,
+        "carbohydrates_100g": 9,
+        "fiber_100g": 0,
+        "fat_100g": 0,
+        "salt_100g": 0.03,
+        "saturated-fat_100g": 0,
+        "energy-kj_100g": 160,
+        "sodium_100g": 0.012
+      },
+      "product_name": "Rivella Original"
+    },
+    {
+      "code": "7610097118255",
+      "brands": [
+        "Rivella"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.4,
+        "sugars_100g": 8.4,
+        "energy-kcal_100g": 35,
+        "proteins_100g": 0,
+        "energy-kj_100g": 150,
+        "sodium_100g": 0.012,
+        "fat_100g": 0,
+        "salt_100g": 0.02999999999999989,
+        "saturated-fat_100g": 0
+      },
+      "product_name": "Rivella p\u00eache"
+    },
+    {
+      "code": "7610097119252",
+      "brands": [
+        "Rivella"
+      ],
+      "nutriments": {
+        "energy-kcal_100g": 35,
+        "proteins_100g": 0,
+        "sugars_100g": 8.4,
+        "carbohydrates_100g": 8.4,
+        "fat_100g": 0,
+        "salt_100g": 0.029999999999999995,
+        "saturated-fat_100g": 0,
+        "energy-kj_100g": 150,
+        "sodium_100g": 0.012
+      },
+      "product_name": "Rhubarbe - Boisson gaz\u00e9fi\u00e9e"
+    },
+    {
+      "code": "7610097126182",
+      "brands": [
+        "Rivella"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 5.2,
+        "sugars_100g": 5.2,
+        "energy-kcal_100g": 21,
+        "proteins_100g": 0,
+        "sodium_100g": 0.008,
+        "fat_100g": 0,
+        "saturated-fat_100g": 0,
+        "salt_100g": 0.02
+      },
+      "product_name": "Rivella Refresh"
+    }
+  ],
+  "aggregations": null,
+  "facets": {},
+  "charts": {},
+  "page": 1,
+  "page_size": 100,
+  "page_count": 38,
+  "debug": {
+    "query": {
+      "query": {
+        "bool": {
+          "filter": [
+            {
+              "bool": {
+                "must": [
+                  {
+                    "term": {
+                      "categories_tags": {
+                        "value": "en:sodas"
+                      }
+                    }
+                  },
+                  {
+                    "term": {
+                      "countries_tags": {
+                        "value": "en:france"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "size": 100,
+      "from": 0
+    }
+  },
+  "took": 9,
+  "timed_out": false,
+  "count": 3765,
+  "is_count_exact": true,
+  "warnings": null
+}
