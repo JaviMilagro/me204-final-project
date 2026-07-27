@@ -1,0 +1,401 @@
+country,barcode,product_name,brand,sugar_content_per_100g:
+italy,0000503210227,,,
+italy,8002516010223,La classica,Tomarchio,11.0
+italy,3270190005261,PULP' Saveur Orange,Carrefour,8.4
+italy,4060800129680,Pepsi lemon,Pepsi,10.7
+italy,4060800001771,Pepsi-cola,pepsi,10.9
+italy,5449000005090,Fanta,fanta,11.8
+italy,8017596071392,Cola,Eurospin,4.1
+italy,8014396000393,Acqua tonica,Schweppes,8.9
+italy,8002270866562,CHINÒ,San Pellegrino,10.0
+italy,8007885745806,Cola,Galvanina,9.5
+italy,8002270076787,Chinò zero,San Pellegrino,0.1
+italy,3560070791118,Limonade,Carrefour Bio,8.4
+italy,8014396000942,Limone,Schweppes,11.4
+italy,5449000241368,Coca cola senza caffeina,Coca-Cola,11.1
+italy,8032919465108,Orangeade / Aranciata,Lurisia,13.43
+italy,8002270836565,L'Aranciata,San Pellegrino,8.6
+italy,5000112557664,Coca Cola,Coca-Cola,10.6
+italy,5000112557695,Sprite,Sprite,1.9
+italy,8017596050823,Cola,blues Eurospin,11.0
+italy,3560070566402,Saveur orange,Carrefour,6.7
+italy,3560070365531,Limonade,,5.2
+italy,8057192000419,Lemon soda,Terme di Crodo,12.0
+italy,8003423700023,Siesta Lemon,Romanella,10.4
+italy,5449000000453,Coca Cola,Coca-Cola,10.6
+italy,8019730001814,Gusto gassosa,Happyfresh,3.0
+italy,8017596064882,Cola,Eurospin,10.9
+italy,9022100000897,Gröbi Orange,Gröbi,0.5
+italy,8019730069432,Tonic lemon,MD,9.8
+italy,8017596104533,Gassosa zero,Eurospin,0.0
+italy,8033520500004,Aranciata,Vividrink,11.0
+italy,8018005720252,Chioschi mandarino verde,Polara,12.5
+italy,8017596008329,tonica,Eurospin,9.3
+italy,8018848018738,COLA,Baule Volante,9.0
+italy,8018005111692,Fruit Thè Verde,Polara,2.0
+italy,8711900013213,Taurine drink Psychik,Carrefour,11.0
+italy,8026180001189,Sifon-seltz acqua di soda,,0.0
+italy,8018005827036,Bio sicilia cedrata,Polara,12.0
+italy,5449000241214,Coca-Cola,Coca-Cola,10.6
+italy,8057192002581,Lemon Soda Energy Activator,Terme di Crodo,12.0
+italy,8057192002802,Energy activator,Terme di Crodo,9.0
+italy,8057192002598,Lemon soda zero,Terme di Crodo,0.0
+italy,8018005370280,Limonata di Sicilia polara,Polara,12.0
+italy,8018005974570,Thè al limone,Polara,8.58
+italy,8018005827098,Cola,Polara,10.1
+italy,8012666506330,Chinotto,Terre d'Italia,12.0
+italy,4056489041634,Bergamotto e menta,Strada del gusto,15.0
+italy,5301000171970,Pepsi Lime,,0.0
+italy,8002270826801,Aranciata,San Pellegrino,10.1
+italy,8001160008211,Mirinda,Mirinda,7.0
+italy,8002270816796,L’ARANCIATA,San Pellegrino,10.1
+italy,9009700309254,Acqua,,0.0
+italy,80073499,Biffi aceto balsamico,gggg,
+italy,05944200938,Cocacola,Coca-Cola,48.0
+italy,8018005101075,Pompelmo,,1.5
+italy,8018005111739,Toni',Polara,9.4
+italy,8018005370358,Limone e zenzero di Sicilia,Polara,8.5
+italy,8001120448415,Pompelmo,Coop,6.3
+italy,8059693040048,Bibicaffè Original,,10.0
+italy,5449000316523,Coca Cola Senza Caffeina,Coca-Cola,11.1
+italy,5449000247346,Coca-Cola,Coca-Cola,
+italy,8002270086885,Aranciata Rossa,San Pellegrino,8.8
+italy,5449000000279,Coca Cola,Coca Cola,35.0
+italy,5449000000439,Coca Cola Original taste,Coca-Cola,10.6
+italy,0762571500043,Freez Citron Gingembre,Freezmix,7.0
+italy,5449000214911,Coca-Cola,Coca-Cola,10.6
+italy,5449000009067,Coca Cola Regular 2L,Coca-Cola,10.6
+italy,8032749751921,Easy cola,,0.0
+italy,8001160003612,Pepsi max zero zuccheri,Pepsi,0.0
+italy,8017596005014,,Blues,6.0
+italy,8002270426902,Chinò zero zuccheri aggiunti,San Pellegrino,0.1
+italy,9010800000354,Tirola Kola,,11.0
+italy,8017870000193,Plose Limonata,Plose,10.6
+italy,8010795000774,la nostra limonata BIO con limoni di Sicilia,Scaldasole,7.2
+italy,8053908880252,Chinotto,Verum,12.2
+italy,8057192002710,Lemon soda Energy activator zero,Terme di Crodo,0.0
+italy,8010335020033,chin8,neriI.B.G.,11.6
+italy,8017596065070,Cola zero,Eurospin,0.0
+italy,8717700001009,7up,Seven up,7.0
+italy,8017596004062,Aperitivo Rosso,Blues,15.0
+italy,5449000241313,Coca-Cola,Coca-ColaThe Coca-Cola Company,10.6
+italy,8002270456794,,San Pellegrino,8.8
+italy,4060800127181,Pepsi Twist,Pepsi,10.7
+italy,8057192002604,Lèmon soda mojito,Terme di Crodo,12.0
+italy,8018005974747,Aranciata Bio,,11.7
+italy,8017596103604,Gassosa limone femminello di gargano,Eurospin,12.0
+italy,8018848018769,Aranciata,Baule Volante,10.0
+italy,8018005370273,Chinotto,Polara,12.0
+italy,8018005370327,Melograno di sicilia,Polara,9.0
+italy,80148234,Cedrata tassoni,,16.4
+italy,8002200170950,Sparkling Coffee,Kimbo,10.0
+italy,8002270766800,Aranciata amara,San Pellegrino,8.8
+italy,8059300820001,Dandy Tonic Water,,10.0
+italy,8002270036835,Aranciata amara,San Pellegrino,8.8
+italy,8018005370242,Aranciata di Sicilia,Polara,12.0
+italy,5942204001689,Prigat,,11.6
+italy,8002270046834,San Pellegrino Chinò,San Pellegrino,10.0
+italy,8018005827135,The verde lemongrass,Polara,7.05
+italy,8003170018716,Tonica,CONAD,8.6
+italy,8005613040148,Tonica al cedro,Tassoni,9.8
+italy,8054377870546,Molecola,Molecola,0.0
+germany,4260107226987,Fritz-Cola null Zucker + guarana,fritz-kola,0.0
+germany,4017434002575,Garten-Limonade Zitrone,Bad Brambacher,10.0
+germany,4002846034627,Mio Mio Mate Ginger,MIO MIO,6.4
+germany,4014472280415,Bionade - Mate Pur (Bio),Bionade GmbH,4.6
+germany,4100060026463,Durstlöscher Granatapfel-Zitrone,WesserGold,10.0
+germany,4260565250111,The Basil,Soda Libre,8.1
+germany,4388860426052,Erfrischungsgetränk Zitrone Ingwer Basilikum,Rewe,9.4
+germany,42031888,ColaMix Kalorienarm,Frucade,2.3
+germany,5268247880877,fritz-kola stevia,fritz-kola,4.6
+germany,5410033820707,Sparkling Ice Tea,Lipton,4.5
+germany,5449000000965,Coca-Cola 6 x 330ml,Coca-Cola,10.6
+germany,5449000091659,Coca Cola Life 1L MW,Coca Cola,5.0
+germany,5449000134288,Coca-Cola zero,Coca-Cola,
+germany,5449000241764,Coca zéro lemon,Coca-Cola,0.0
+germany,54491229,Coca-Cola,Coca-Cola,10.6
+germany,5449000000484,Coca Cola Light 1.5L,Coca Cola,
+germany,5449000081711,Fanta Mango-Geschmack,Fanta,10.1
+germany,5449000197092,Cherry Coke,Coca-Cola,10.7
+germany,5449000216489,BiO LiMO Grapefruit,ViO,7.0
+germany,5999883580257,Boisson au raisin pétillante,Rewe bio,2.5
+germany,7610097126182,Rivella Refresh,Rivella,5.2
+germany,90448256,black Orange,Organics,9.2
+germany,4015042101901,AQUA Wellness Brombeer Geschmack,AQUA Wellness,5.9
+germany,5449000297877,Fanta - Elderflower & Lemon,Fanta,6.7
+germany,4047247349215,Apfelrhabarberschorle,Gut bio,4.5
+germany,12936397,,,
+germany,4260456730388,Juneberry Jam Geschmack,Gönrgy,0.0
+germany,4008287916218,Krombracher's Fassbrause Cola&Orange,Krombacher,9.8
+germany,90495502,"Sprite 0,2",Sprite,8.0
+germany,3249760000012,Orangina,Orangina,10.2
+germany,42006312,Flumi cola-mix,Flummi,9.1000003814697
+germany,4012852204266,Now Orange Cola,Lammsbräu,9.0
+germany,4102610507422,Afri Cola,,11.0
+germany,4102560020323,Leicht&Fruchtig Apfel-Traube Cranberry,RHÖN SPRUDEL,4.3
+germany,4260517180299,Dr Pepper Vanilla Float,Dr. Pepper,11.5
+germany,4045145535204,"Die Limo, Pink Grapefruit + Cranberry",Granini,9.1
+germany,4048517663338,Die Limo Leicht Zitrone-Minze,granini,5.1
+germany,00019347,Vita Cola pur,Vita Cola,11.0
+germany,4005906002352,Apfelschorle aus natürlichem Mineralwasser,Adelholzener,5.8
+germany,40554556,The real Cola,Booster,10.6
+germany,40847719,Odenwald Quelle,Odenwald Quelle,4.8
+germany,4000140708633,Orangina Rouge,Orangina,10.1
+germany,5000112547450,Mezzo Mix,Coca-Cola,7.9
+germany,5000112547726,Coca-Cola,Coca-Cola,10.6
+germany,4260339810022,Acao Quitte Zitrone mit Guarana,Acao,4.4
+germany,5711018024135,Ananasbrus,Harboe,9.6
+germany,4001513006417,Fruity Water - Beerengeschmack,Gerolsteiner,0.7
+germany,54492387,Coca Cola light,Coca Cola,0.0
+germany,90151620,"Almdudler Original 0,33L",Almdudler,7.9
+germany,4009228250330,Afri Cola ohne Zucker,Mineralbrunnen Überkingen-Teinach GmbH & Co. KG,0.0
+germany,42218494,Spezi,,9.8
+germany,4026285000746,"Spezi 20 x 0,5 Ltr.",Bissinger Auerquelle,9.3
+germany,9009700308271,Balance Juicy Pfirsich-Mango,Vöslauer,3.0
+germany,6194019608273,Boga mojito,Boga,9.88
+germany,87177077,7 up,7 up,10.4
+germany,4337185148774,Cola light,K-Classic,0.1
+germany,4004880378408,Citro limo,Bad Dürrheimer,4.0
+germany,9009700311400,Balance Juicy Rote Früchte + Echinacea,Vöslauer,3.1
+germany,4054500114862,,Eichbaum,7.0
+germany,5449000015174,Coke,Coca cola,
+germany,4260026275554,Bio-Limonade Apfel-Gurke-Kresse,Stadlers,
+germany,7750182006088,Gaseosa Inca Kola sabor original x 600ml,Coca-Cola,21.0
+germany,8057192000419,Lemon soda,Terme di Crodo,12.0
+germany,4260402580340,Rote Schorle,Einheimischer,6.0
+germany,4008287924688,Fassbrause Mango,Krombacher,
+germany,4337256737081,Limonata,San Fabio,11.0
+germany,6086701117777,,,9.0
+germany,4056489568803,Blub blub peach,Solevita lidl,3.2
+germany,8719497395156,Aloe Vera King Premium,OKF,
+germany,4062139025299,Pepsi Zero Zucker,Pepsi,0.0
+germany,5449000286932,Fanta lemon,Fanta,7.8
+germany,7640115252784,Tonic,prix garantie coop,7.7
+germany,50112012,Cola Zero,Coca-Cola,
+germany,4260644047243,Zerup Kids Cola,More Nutrition,
+germany,5449000264824,Coca-Cola Vanilla ohne Zucker,Coca Cola,0.0
+germany,5000112634075,"Sprite Zitrone, Limette & Minze",Sprite,
+germany,4013595318401,Cola,Vita Cola,88.0
+germany,4103850001923,Land Schorle,Rapp's,9.8
+germany,8009980895011,Aranciata zero,Spumador,1.7
+germany,42391876,Lidl strong Cola Koffein drink,Strong,9.8
+germany,4270000162367,Chico Erfrischungsgetränk mit Hanf-Minz-geschmack,Live Well Beverages,8.1
+germany,4002343008008,Ensinger Sport Grapefruit,Ensinger,3.2
+germany,4013595318449,Zitrone Limonade,Vita Cola,9.7
+germany,4021375103727,Afri Cola ohne Zucker,afri,0.0
+germany,5000112620191,Fanta Lemon Ohne Zucker,Fanta,0.0
+germany,4260422210036,green cola,Green Cola,0.0
+germany,42141242,Zitronenlimonade,Flirt,7.9
+germany,4001681980601,Kindersekt Berry,Robby Bubble,10.0
+germany,4018715002840,Cola,Sinalco,10.0
+germany,5449000025500,Bio Limo,vio,4.2
+germany,4005906002871,Pflaume,Adelholzener,10.0
+germany,4013256012150,Grapefruit Fruchtsaftgetränk,Lichtenauer,1.2
+germany,4010223101527,Happy Cola,Brauerei Bischofshof,8.6
+germany,4260336980094,Tyme Out Botanical Fizz,TYME OUT,3.2
+germany,4015533015595,Bio Zisch Guarana Cola,Voelkel,8.3
+germany,4019313015058,Spezi - Koffeinhaltige Limonade mit Cola-Orangengeschmack,Spezi,9.8
+germany,4013256012457,Waldmeister Brause,Lichtenauer,3.5
+germany,4061458225816,Flirt Spicy Ginger,Flirt,14.0
+germany,4001246032134,Gold,Dreiser,9.1
+germany,4022652943456,Limhonade Holunder,Limhonade,7.5
+united-kingdom,5060448760404,Grove 42 & Lemongrass Tonic,Seedlip,3.92
+united-kingdom,5000128158862,Diet Bitter Lemon,Coop,0.5
+united-kingdom,90446344,Redbull,Red Bull,
+united-kingdom,5054267001299,Orange,Lucozade,4.5
+united-kingdom,5449000052971,,Coca-Cola,6.7
+united-kingdom,5449000086877,Coca-Cola,Coca-Cola,10.6
+united-kingdom,5449000119056,Fanta Shokata,Fanta,10.5
+united-kingdom,5449000096968,Apple & Sour Cherry,Fanta,7.9
+united-kingdom,54491076,Diet Coke,Coke,0.0
+united-kingdom,8718858612581,Sparkling winter edition drink,Candy can,0.0
+united-kingdom,5000382115007,ice cream soda,Barr,0.0
+united-kingdom,0012000150050,Sierra mist soda,TWST,10.42
+united-kingdom,4060800171702,Pepsi max cherry,Pepsi,0.0
+united-kingdom,5060602580251,"Cucumber, yuzu & rosemary",Punchy,2.4
+united-kingdom,5000382115236,Tizer,Barr,3.9
+united-kingdom,87170795,Pepsi,Pepsi,0.0
+united-kingdom,4060800309099,Pepsi max mango,Pepsi,0.0
+united-kingdom,5057753892302,Tesco Diet Cola can,,
+united-kingdom,4060800308375,6 Pepsi Multipack,Pepsi,4.6
+united-kingdom,5060909050006,Pop Cola,Mamuda,
+united-kingdom,0362881377498,,,
+united-kingdom,4060800310033,,,
+united-kingdom,4088600373843,Zx Cola,Vive,0.5
+united-kingdom,5010102242869,Orange Squash,Robinsons,0.0
+united-kingdom,5449000015174,Coke,Coca cola,
+united-kingdom,4060800001771,Pepsi-cola,pepsi,10.9
+united-kingdom,9350271000089,Organic Kombucha Raspberry Lemonade,Remedy Kombucha,
+united-kingdom,5000193730574,Slimline Lemonade,Schweppes,
+united-kingdom,5010102243309,"Real fruit double strength orange & pineapple, concentrated soft drink with sweeteners",Robinson's,
+united-kingdom,4060800303141,Pepsi,Pepsi,10.9
+united-kingdom,5060193938349,Pop,,
+united-kingdom,4864467414963,Diet Coke,Coca-Cola,0.0
+united-kingdom,00050678,Diet sparkling fiery ginger beer,Marks & Spencer,0.1
+united-kingdom,5057753032869,diet lemonade,,0.1
+united-kingdom,5010251593379,Cola,Morrisons,0.0
+united-kingdom,5449000117106,Diet Coke No Caffiene 8x330ml Cans,Coca Cola,0.0
+united-kingdom,5000382106609,Karibbean kola,KA,3.9
+united-kingdom,4060800171467,Max,PepsiCo,0.0
+united-kingdom,5449000218162,Bílé hrozno,Fanta,7.7
+united-kingdom,5010438007767,Fizzy Zero,Vimto,0.5
+united-kingdom,40608044,Pepsi max,PepsiCo,0.0
+united-kingdom,4060800302694,Pepsi max rasberry,Pepsi,0.0
+united-kingdom,20800291,Water,CARRICK GLEN,0.0
+united-kingdom,5000112649871,diet coke,Coke,0.0
+united-kingdom,47958531,Coca cola zero,,0.0
+united-kingdom,18537910,Fanta,Fanta,
+united-kingdom,5060108454643,Rhubarb & Raspberry tonic water,,4.7
+united-kingdom,4000177029541,caprisun,Capri-Sun,
+united-kingdom,4056489010364,Freeway Cola,Freeway,4.8
+united-kingdom,5029396003315,Cherry Cola,Fentimans,4.0
+united-kingdom,5029396003483,Fentiman's Raspberry Lemonade,Fentimans,3.9
+united-kingdom,5449000305046,Schweppes Indian Tonic Water,Schweppes,4.9
+united-kingdom,4056489384021,Premium Light Tonic Water,Lidl,0.0
+united-kingdom,6009704170471,Diet coke,,
+united-kingdom,4060800311238,7up zero sugar,7UP,0.0
+united-kingdom,5060054132466,Cawston Press Cloudy Apple,Cawston,4.3
+united-kingdom,5000112552119,Fanta orange,Fanta,4.5
+united-kingdom,5449000309822,Coca-Cola Intergalactic,Coca Cola,0.0
+united-kingdom,5029396002509,Rose Lemonade,Fentimans,7.5
+united-kingdom,4088600415932,Tonic water,Aldi,43.0
+united-kingdom,8002270836824,Aranaciata,San Pellegrino,4.4
+united-kingdom,5054781823605,Lemonade,Asda,0.0
+united-kingdom,02025122,Lemonade,Morrissons,2.1
+united-kingdom,00464741,Apple and blackcurrant squash,By sainsbury's,0.5
+united-kingdom,5949000504765,Pepsi Twist,Pepsi,
+united-kingdom,29303526,Still -  Raspberry Lemonade,Marks & Spencer,6.8
+united-kingdom,5010251508984,Cream soda,Morrisons,0.0
+united-kingdom,5000112592245,Pack - sodas,,
+united-kingdom,4088600274157,Cherry cola,vive,0.5
+united-kingdom,5060699470008,Lime and soda,,4.6
+united-kingdom,4060800166531,Pepsi Cola - Cherry 2L,Pepsi,0.0
+united-kingdom,4060800103307,Pepsi max,Pepsico,0.0
+united-kingdom,4060800134943,Pepsi Max,pepsi,0.0
+united-kingdom,5000147030651,Robinsons lemon Squash,Robinsons,0.3
+united-kingdom,5000112606584,Coca Cola Cherry,Coca-Cola,
+united-kingdom,5000347010804,Pink Lemonade,Lucozade,
+united-kingdom,5029578000200,Ginger Beer with Fiery Jamaican Root Ginger,Old Jamaica,16.0
+united-kingdom,5029788180099,Root Beer,Tropical Sun,12.0
+united-kingdom,5000112628722,Coca cola zero sugar,Coca-Cola,
+united-kingdom,5000128519199,Diet cola,Co-op,0.5
+united-kingdom,5000112639605,Fanta Grape,Fanta,0.7
+united-kingdom,5000112641691,Coca-Cola zéro™citron,Coca-Cola,
+united-kingdom,21105593,Diet Cola,Asda,0.0
+united-kingdom,01511123,Taste the Difference Lemonade,Sainsbury's,7.0999999046326
+united-kingdom,4060800171122,Pepsi max,Pepsi,0.0
+united-kingdom,00030083,Lemonade,By Sainsbury's,3.5
+united-kingdom,4895058312979,EDO Soda Drink - Peach Flavour,Kiu Fung Hong Ltd,3.5
+united-kingdom,5000112631555,Cherry Coca Cola,Coca-Cola,
+united-kingdom,4088600109046,Diet lemonade,Aldi,0.5
+united-kingdom,00114936,Indian Tonic Water,By Sainsbury's,4.8
+united-kingdom,00154635,Bitter lemon,Sainsbury's,0.5
+united-kingdom,8435185944153,Citrus mix,Schweppes,7.2
+united-kingdom,8714800004336,Dr Pepper,Dr Pepper,7.2
+united-kingdom,9311493000608,Root beer,Bundaberg,12.4
+united-kingdom,5000382102496,Irn-Bru Xtra,Irn-Bru,0.0
+united-kingdom,5000382034919,Sparkling Fruit Punch,KA,4.6
+united-kingdom,50382811,Irn-Bru Sugar Free,Barr,0.0
+united-kingdom,4088600244051,Sun quench blackcurrant  juice,,3.1
+united-kingdom,5000169009321,Indian tonic water,Essential Waitrose,4.9
+united-kingdom,5000119092274,indian tonic water,Tesco,0.0
+france,5449000285720,Fanta Rasberry,Fanta,0.0
+france,7427137099265,Concentrado de Sábila: Mango 1/2 Gallon,Herbalife,
+france,5206542007667,Green Sour Cherry Carbonated,green,2.0
+france,3608330126840,Boisson saveur agrumes,Sun (Refresco),7.6
+france,5449000242136,Coca Cola sans sucres,Coca Cola,0.0
+france,5186020627733,Limonade,Lorina,7.4
+france,3700232400148,Cola,,9.5
+france,5449000119964,Coca cola zero sucre,Coca cola zero,0.0
+france,3665676000524,Orangina rouge,,9.0
+france,01383119,7up cherry free,7up,0.0
+france,5400514341500,Cola bio,,13.0
+france,8480000290854,Cola zero azúcar,Hacendado,0.0
+france,50414543,Tonic Water Bitter Orange & Elderflower,Balance,3.9
+france,5054267003477,Ribena No Added Sugar Concentrated Blackcurrant,Ribena,0.3
+france,5060191280457,Mr freeze cola,Mr.Freeze,11.5
+france,5060335632531,Monster Assault Energy,Monster,8.8
+france,5060466515703,Nalu frost,Nalu,4.8
+france,5202908000099,AGROS 1L - LEMONADE - 1.50 Euro,Agros,12.0
+france,5400601005360,Lemonade Orange,365 Delhaize,7.7
+france,54004450,Schweppes Ginger  beer et chili,Schweppes,11.1
+france,5410033820707,Sparkling Ice Tea,Lipton,4.5
+france,5410221305306,Schweppes-lemon Soda (diet)-330ml-belgium,Schweppes,0.0
+france,5413982100005,"Tao Vitality - Green Tea, Ginko Biloba, Vitamin C, Biotin",Tao,7.2
+france,5415270100339,Kidibul,Kidibul,9.5
+france,5449000000965,Coca-Cola 6 x 330ml,Coca-Cola,10.6
+france,5449000028938,Fanta,Fanta,9.6
+france,5449000036889,refresco de naranja,hawai,6.0
+france,5449000052346,Coca-Cola life ,Coca-Cola,6.7
+france,5449000052971,,Coca-Cola,6.7
+france,5449000056665,"Coca-Cola Light - sans caféine, sans sucre",Coca-Cola,0.0
+france,5449000058362,Fanta,Fanta,11.7
+france,5449000091659,Coca Cola Life 1L MW,Coca Cola,5.0
+france,5449000100016,Coca Cola Refresco De Cola,Coca-Cola,10.3
+france,5449000119056,Fanta Shokata,Fanta,10.5
+france,5449000201935,Coca-Cola Zero Zero,Coca-Cola,0.0
+france,5449000223050,Coca-cola Lime 1L,Coca-Cola,10.6
+france,5449000223494,Fines Bulles Spritz,Finley,3.9
+france,5449000223548,Coca-cola light sans caféine pet,Coca cola zero,0.0
+france,5449000224040,Coca-Cola Zero Sucres,The Coca-Cola Company,0.0
+france,5449000226396,Coca zero lemon,COCA-COLA,0.0
+france,5449000227195,Coca-Cola Lemon saveur citron,Coca-Cola,0.0
+france,5449000228123,Coca cola light,Coca-Cola,0.0
+france,5449000237347,Coca Cola,Coca-Cola,10.6
+france,5449000240491,Coca cola light Mangue,Coca Cola,0.0
+france,5449000241764,Coca zéro lemon,Coca-Cola,0.0
+france,5449000242655,Sprite citron-citron vert-concombre,Sprite,0.0
+france,5449000244475,Sprite citron-citron vert,Sprite,2.0
+france,5449000250902,Citronnade,Minute Maid,3.9
+france,54490130,,Schweppes,12.6
+france,5453002980477,Pink Grapefruit Mint,28 Drinks,11.0
+france,5449000004864,Sprite,COCA-COLA,3.3
+france,5449000015143,Coca cola 6 x 500 ml,Coca-Cola,10.6
+france,5449000019837,Orange,Fanta,
+france,5449000022653,Fanta Pomme,Fanta,10.6
+france,5449000036964,Poms,COCA-COLA,9.62
+france,5449000039231,Tónica original,Nordic Mist,7.8
+france,5449000052186,Fanta Citron frappé,Fanta,6.3
+france,5449000096333,Coca Cola Waniliowa Coca-cola Vanilla Oryginalna,Coca-Cola,11.2
+france,5449000096968,Apple & Sour Cherry,Fanta,7.9
+france,5449000098153,Coca Cola Vanilla Coke 1.5 Litre,Coca Cola,10.6
+france,5449000099389,Coca-cola vanille,coca-cola,10.6
+france,5449000109255,Coca Cola Cherry,Coca-Cola,10.6
+france,5449000112668,Nestea  Mangue Ananas,Nestea,4.6
+france,5449000112965,Băutură răcoritoare cu aroma de struguri,Fanta,8.4
+france,5449000138040,Fanta zéro citron frappé,the Coca-Cola company,
+france,5601045000137,,Sumol,7.4
+france,5449000152473,Coca cola zero,Coca Cola,0.0
+france,5449000154750,Popular Product Today Only Coca Cola Zero 15 x,Coca-Cola,0.0
+france,5449000169334,Coca-Cola Zero sans caféine,coca-cola,0.0
+france,5449000183217,,Coca-Cola,11.1
+france,5449000197092,Cherry Coke,Coca-Cola,10.7
+france,5449000204356,Pamplemousse & orange sanguine,Finley,4.6
+france,5449000204394,Finley - Pamplemousse & Orange sanguine,Finley,4.6
+france,5449000214447,Coca-Cola,Coca-Cola,10.6
+france,5449000214843,Coca-Cola Cherry,Coca-Cola,10.7
+france,5449000223487,Boisson,Finley,3.9
+france,5449000223968,Coca cola light mini,Coca Cola,0.0
+france,5449000226945,Finley Royal,Finley,4.5
+france,5449000229199,Coca Cola Zero sucres 20cl,Coca-Cola,0.0
+france,5449000239594,Coca Coca Zéro Pêches,Coca Cola,0.0
+france,5449000251176,Coca-Cola Saveur Framboise Zéro Sucres,The Coca-Cola Company,0.0
+france,5449000958402,Agrume & Grenade,Finley,4.5
+france,54491076,Diet Coke,Coke,0.0
+france,5740700989032,Fanta Peach,Fanta,
+france,5711018021899,Gingerbeer Caribia,caribia,14.0
+france,5740700994203,Fanta Lemon,Fanta,11.6
+france,5996379323626,Happy cola,Haribo,46.0
+france,6036000065910,Non-alcoholic ginger drink,Padosh Happi Life,26.0
+france,6130093059716,Ifri Citron,Ifri,12.0
+france,6130695111119,Selecto,Selecti,
+france,6130799002184,Soda,Mami Boissons,13.2
+france,6194019802282,Apla,,10.0
+france,6920702088028,Boisson Gazeuse Pomme 33cl,ELISHA,3.7142857142857
+france,7290008909877,,Coca-Cola,
+france,7610097120074,Rivella,Rivella,8.4
+france,7610029186239,Grape-Fruit,Denner,9.0
+france,7610097111256,Rivella Original,Rivella,9.0
+france,7610097118255,Rivella pêche,Rivella,8.4
+france,7610097119252,Rhubarbe - Boisson gazéfiée,Rivella,8.4
+france,7610097126182,Rivella Refresh,Rivella,5.2
