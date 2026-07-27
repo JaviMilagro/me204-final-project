@@ -1736,7 +1736,7 @@
       "from": 0
     }
   },
-  "took": 9,
+  "took": 23,
   "timed_out": false,
   "count": 3765,
   "is_count_exact": true,

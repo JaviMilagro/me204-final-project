@@ -1562,7 +1562,7 @@
       "from": 0
     }
   },
-  "took": 10,
+  "took": 31,
   "timed_out": false,
   "count": 512,
   "is_count_exact": true,
