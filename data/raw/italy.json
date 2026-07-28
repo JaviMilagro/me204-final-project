@@ -1,4 +1,7 @@
 {
+  "country": "italy",
+  "count": 337,
+  "retrieved": 337,
   "hits": [
     {
       "code": "0000503210227"
@@ -1678,49 +1681,4030 @@
         "sugars_100g": 0
       },
       "product_name": "Molecola"
-    }
-  ],
-  "aggregations": null,
-  "facets": {},
-  "charts": {},
-  "page": 1,
-  "page_size": 100,
-  "page_count": 4,
-  "debug": {
-    "query": {
-      "query": {
-        "bool": {
-          "filter": [
-            {
-              "bool": {
-                "must": [
-                  {
-                    "term": {
-                      "categories_tags": {
-                        "value": "en:sodas"
-                      }
-                    }
-                  },
-                  {
-                    "term": {
-                      "countries_tags": {
-                        "value": "en:italy"
-                      }
-                    }
-                  }
-                ]
-              }
-            }
-          ]
-        }
+    },
+    {
+      "code": "8057192005407",
+      "brands": [
+        "Lemon Soda"
+      ],
+      "product_name": "Energy Activator Zero Icy Breeze"
+    },
+    {
+      "code": "8003170000292",
+      "brands": [
+        "Conad"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13,
+        "energy-kcal_100g": 54,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 13
       },
-      "size": 100,
-      "from": 0
+      "product_name": "Ginger"
+    },
+    {
+      "code": "8018005301024",
+      "nutriments": {
+        "carbohydrates_100g": 1.96,
+        "energy-kcal_100g": 8,
+        "fat_100g": 0,
+        "proteins_100g": 0.06,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1.96
+      },
+      "product_name": "Frizz"
+    },
+    {
+      "code": "80335412",
+      "brands": [
+        "Calabria acqua minerale"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11.1,
+        "energy-kcal_100g": 44.4,
+        "energy-kj_100g": 189,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.0167,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.00667,
+        "sugars_100g": 11.1
+      },
+      "product_name": "Brasilena"
+    },
+    {
+      "code": "8001620203026",
+      "brands": [
+        "San Benedetto"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 5.1,
+        "energy-kcal_100g": 23,
+        "fat_100g": 0,
+        "fiber_100g": 1.5,
+        "proteins_100g": 0.1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 5.1
+      },
+      "product_name": "Allegra con succo d'agrumi"
+    },
+    {
+      "code": "8057192001430",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13,
+        "energy-kcal_100g": 52,
+        "energy-kj_100g": 221,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 12
+      },
+      "product_name": "Lemon soda"
+    },
+    {
+      "code": "8002270086663",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.9,
+        "energy-kcal_100g": 38,
+        "fat_100g": 0,
+        "proteins_100g": 0.1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 8.9
+      },
+      "product_name": "Clementina"
+    },
+    {
+      "code": "8057192001010",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "energy-kcal_100g": 40,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 9.5
+      },
+      "product_name": "Oran Soda"
+    },
+    {
+      "code": "5449000241351",
+      "brands": [
+        "the coca cola company"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 1,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Zero zuccheri gusto limone"
+    },
+    {
+      "code": "8023701021893",
+      "brands": [
+        "La Spina Santa"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 16,
+        "energy-kcal_100g": 72,
+        "fat_100g": 0.85,
+        "fiber_100g": 1.5,
+        "proteins_100g": 0.38,
+        "salt_100g": 0.2,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.08,
+        "sugars_100g": 9.45
+      },
+      "product_name": "Bergotto"
+    },
+    {
+      "code": "5449000138156",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "energy-kj_100g": 0.933,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca-Cola Zero"
+    },
+    {
+      "code": "3245412730252",
+      "brands": [
+        "Carrefour"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.4,
+        "energy-kcal_100g": 6,
+        "energy-kj_100g": 24,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 1.4
+      },
+      "product_name": "Pulp' saveur orangelight"
+    },
+    {
+      "code": "80141136",
+      "brands": [
+        "Romanella"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11.15,
+        "energy-kj_100g": 190,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.002032,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.0008128,
+        "sugars_100g": 10.4
+      },
+      "product_name": "Siesta Lemon"
+    },
+    {
+      "code": "4099200859194",
+      "brands": [
+        "Flirt"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.5,
+        "energy-kj_100g": 1.7,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      }
+    },
+    {
+      "code": "5000112565348",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.6,
+        "energy-kcal_100g": 42,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.6
+      },
+      "product_name": "Coca-Cola"
+    },
+    {
+      "code": "7004712557664",
+      "brands": [
+        "Coca Cola"
+      ],
+      "product_name": "Coca cola"
+    },
+    {
+      "code": "5449000241238",
+      "brands": [
+        "Coca cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca cola zero"
+    },
+    {
+      "code": "9100000114545",
+      "brands": [
+        "Spar",
+        "Vital"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 2.7,
+        "energy-kcal_100g": 13,
+        "fat_100g": 0.5,
+        "fiber_100g": 0,
+        "proteins_100g": 0.5,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0.1,
+        "sodium_100g": 0,
+        "sugars_100g": 2.7
+      },
+      "product_name": "Apfel Johannisbeer gespritzt"
+    },
+    {
+      "code": "5000112564044",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11.4,
+        "energy-kj_100g": 201,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11.4
+      },
+      "product_name": "Fanta lemon"
+    },
+    {
+      "code": "8054377870249",
+      "brands": [
+        "Molecola",
+        " Trinka"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.3,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Molecola senza zucchero"
+    },
+    {
+      "code": "8014396001475",
+      "brands": [
+        "Schweppes"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.7,
+        "energy-kcal_100g": 44,
+        "energy-kj_100g": 186,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.6
+      },
+      "product_name": "Schweppws gusto agrumi"
+    },
+    {
+      "code": "8003963221040",
+      "brands": [
+        "San Carlo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 2.9,
+        "energy-kcal_100g": 13,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 2.9
+      },
+      "product_name": "SanCarlo Cedrata"
+    },
+    {
+      "code": "8018848018837",
+      "brands": [
+        "Baule Volante"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 9,
+        "energy-kcal_100g": 36,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 9
+      },
+      "product_name": "Cola"
+    },
+    {
+      "code": "8019730013589",
+      "brands": [
+        "MD"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.9,
+        "energy-kcal_100g": 44,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.9
+      },
+      "product_name": "Casado Cola"
+    },
+    {
+      "code": "8002330018863",
+      "brands": [
+        "Esselunga"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11,
+        "energy-kcal_100g": 43,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11
+      },
+      "product_name": "Cola"
+    },
+    {
+      "code": "8018005301031",
+      "brands": [
+        "Frizz"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.13,
+        "energy-kcal_100g": 4,
+        "fat_100g": 0,
+        "proteins_100g": 1.13,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Chinotto"
+    },
+    {
+      "code": "8017596116055",
+      "brands": [
+        "Land",
+        "Eurospin"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11.9,
+        "energy-kcal_100g": 80,
+        "fat_100g": 0,
+        "proteins_100g": 7.9,
+        "salt_100g": 0.15,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.06,
+        "sugars_100g": 11.4
+      },
+      "product_name": "Pathos yogurt colato greco fragola"
+    },
+    {
+      "code": "8057192001508",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13,
+        "energy-kcal_100g": 52,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 12
+      },
+      "product_name": "Lemon soda"
+    },
+    {
+      "code": "5449000298485",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.2,
+        "energy-kcal_100g": 6,
+        "energy-kj_100g": 27,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.06,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.024,
+        "sugars_100g": 1.2
+      },
+      "product_name": "Fanta - aranciata"
+    },
+    {
+      "code": "8018005827067",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "saturated-fat_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Bio sicilia organis"
+    },
+    {
+      "code": "8018005208279",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 14,
+        "energy-kcal_100g": 56,
+        "fat_100g": 0,
+        "proteins_100g": 0.1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 13
+      },
+      "product_name": "Aranciata di Sicilia Chioschi by Polara"
+    },
+    {
+      "code": "8001300150398",
+      "brands": [
+        "Despar",
+        "Spar"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "energy-kcal_100g": 40,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 10
+      },
+      "product_name": "Ginger cool party"
+    },
+    {
+      "code": "5449000282774",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca Cola zero zuccheri"
+    },
+    {
+      "code": "42105244",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.6,
+        "energy-kcal_100g": 42,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "sugars_100g": 10.6
+      }
+    },
+    {
+      "code": "3560071512316",
+      "brands": [
+        "Carrefour"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 4.3,
+        "energy-kcal_100g": 18,
+        "energy-kj_100g": 78,
+        "sugars_100g": 4.3
+      },
+      "product_name": "Lemon aux saveurs de citron, citron vert"
+    },
+    {
+      "code": "8057192001539",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1,
+        "energy-kcal_100g": 6,
+        "energy-kj_100g": 25,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.004,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.0016,
+        "sugars_100g": 0
+      },
+      "product_name": "Lemonsoda la zero"
+    },
+    {
+      "code": "5449000054227",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.8,
+        "energy-kcal_100g": 42,
+        "energy-kj_100g": 176,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.8
+      },
+      "product_name": "Coca-Cola"
+    },
+    {
+      "code": "5000112567625",
+      "brands": [
+        "Powerade"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 3.8,
+        "energy-kcal_100g": 16,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.1275,
+        "sodium_100g": 0.051,
+        "sugars_100g": 3.8
+      }
+    },
+    {
+      "code": "5600961178425",
+      "brands": [
+        "Prozis"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.5,
+        "energy-kcal_100g": 2,
+        "energy-kj_100g": 1341,
+        "fat_100g": 0,
+        "fiber_100g": 0.5,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "H2O anti-ox"
+    },
+    {
+      "code": "8002270876790",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.9,
+        "energy-kcal_100g": 38,
+        "energy-kj_100g": 161,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.03,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.012,
+        "sugars_100g": 8.9
+      },
+      "product_name": "Chin\u00f2"
+    },
+    {
+      "code": "5000291027163",
+      "brands": [
+        "Tanqueray"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 3,
+        "energy-kj_100g": 10,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.1,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.04,
+        "sugars_100g": 0
+      },
+      "product_name": "Tanqueray alchol free with tonic"
+    },
+    {
+      "code": "8009980111142",
+      "brands": [
+        "Get Up"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 1,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca cola zero zuccheri"
+    },
+    {
+      "code": "8054377870256",
+      "brands": [
+        "Molecola",
+        " Trinka"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.5,
+        "energy-kcal_100g": 35,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 8.5
+      },
+      "product_name": "Mole Cola"
+    },
+    {
+      "code": "42105220",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.6,
+        "energy-kcal_100g": 42,
+        "energy-kj_100g": 180,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.6
+      },
+      "product_name": "Coca Cola"
+    },
+    {
+      "code": "8033256110577",
+      "brands": [
+        "Dec\u00f2"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.5,
+        "energy-kcal_100g": 2,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Dec\u00f3 Cola Zero"
+    },
+    {
+      "code": "54490147",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.6,
+        "energy-kcal_100g": 42,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.6
+      },
+      "product_name": "Coca-Cola"
+    },
+    {
+      "code": "4062139002313",
+      "brands": [
+        "Pepsico",
+        " Schwip Schwap"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.3,
+        "energy-kcal_100g": 1.5,
+        "energy-kj_100g": 6,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 0.3
+      },
+      "product_name": "Schwip Schwap Zero"
+    },
+    {
+      "code": "20256364",
+      "brands": [
+        "Siti"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.7,
+        "energy-kcal_100g": 8,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1.7
+      },
+      "product_name": "ARANCIATA-Bibita Gassata"
+    },
+    {
+      "code": "5904505330103",
+      "brands": [
+        "Marton"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 2,
+        "energy-kcal_100g": 8.6,
+        "energy-kj_100g": 36,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 2
+      }
+    },
+    {
+      "code": "8050327350243",
+      "brands": [
+        "Fonti di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1,
+        "energy-kcal_100g": 6,
+        "fat_100g": 0,
+        "fiber_100g": 1,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "LemonSoda"
+    },
+    {
+      "code": "8014396001987",
+      "brands": [
+        "Schweppes"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 12.10000038147,
+        "energy-kcal_100g": 52,
+        "energy-kj_100g": 219,
+        "fat_100g": 0,
+        "proteins_100g": 0.10000000149012,
+        "salt_100g": 0.03999999910593,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.015999999642372,
+        "sugars_100g": 11.39999961853
+      },
+      "product_name": "Limone"
+    },
+    {
+      "code": "8003170018853",
+      "brands": [
+        "Conad"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11,
+        "energy-kcal_100g": 44,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11
+      },
+      "product_name": "Cola Classic"
+    },
+    {
+      "code": "8057192001706",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.3,
+        "energy-kcal_100g": 3,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Lemon Soda Zero"
+    },
+    {
+      "code": "5449000034557",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "energy-kj_100g": 0.9,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca-Cola zero zuccheri"
+    },
+    {
+      "code": "5000112610161",
+      "brands": [
+        "Coca cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.3,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.025,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.01,
+        "sugars_100g": 0
+      },
+      "product_name": "coca zero"
+    },
+    {
+      "code": "8009980895059",
+      "product_name": "Aper\u00ec soda"
+    },
+    {
+      "code": "8003170026957",
+      "brands": [
+        "Conad"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.3,
+        "energy-kj_100g": 1.4,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.04,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.016,
+        "sugars_100g": 0
+      },
+      "product_name": "Cola"
+    },
+    {
+      "code": "87170160",
+      "brands": [
+        "Pepsi"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11,
+        "energy-kcal_100g": 44,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 11
+      },
+      "product_name": "Pepsi S / Cafeina LL.375"
+    },
+    {
+      "code": "5449000005151",
+      "brands": [
+        "The Coca-Cola Company"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.9,
+        "energy-kcal_100g": 9,
+        "energy-kj_100g": 38,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1.9
+      },
+      "product_name": "Sprite"
+    },
+    {
+      "code": "1004262770007",
+      "brands": [
+        "IKEA"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.3,
+        "energy-kcal_100g": 34,
+        "energy-kj_100g": 159,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 8.3
+      },
+      "product_name": "Vintersaga (yulmust)"
+    },
+    {
+      "code": "8001120926685",
+      "brands": [
+        "Coop"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 5.2,
+        "energy-kcal_100g": 21,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 5.2
+      },
+      "product_name": "Limonata"
+    },
+    {
+      "code": "80148272",
+      "brands": [
+        "Tassoni"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 7.8,
+        "energy-kcal_100g": 31,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 7.6
+      },
+      "product_name": "Tonica Superfine"
+    },
+    {
+      "code": "8032919465030",
+      "brands": [
+        "Lurisia"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 14.3,
+        "energy-kcal_100g": 57,
+        "energy-kj_100g": 243,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 14.3
+      },
+      "product_name": "Il nostro chinotto"
+    },
+    {
+      "code": "80145455",
+      "brands": [
+        "Freedea"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13,
+        "energy-kcal_100g": 52,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 13
+      },
+      "product_name": "Lemon soda la limonata solo da limoni italiani"
+    },
+    {
+      "code": "8057192000709",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13,
+        "energy-kcal_100g": 52,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 12
+      },
+      "product_name": "Limonata Italiana"
+    },
+    {
+      "code": "8002270646560",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "energy-kcal_100g": 42,
+        "energy-kj_100g": 180,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.05,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.02,
+        "sugars_100g": 10
+      },
+      "product_name": "San Pellegrino Chino' ML"
+    },
+    {
+      "code": "5000112610079",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca-Cola Zero"
+    },
+    {
+      "code": "8018161007037",
+      "brands": [
+        "Achillea",
+        " Ponti"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11,
+        "energy-kcal_100g": 46,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 11
+      },
+      "product_name": "Limonata alla menta bio"
+    },
+    {
+      "code": "3560070577491",
+      "brands": [
+        "Carrefour"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.5,
+        "energy-kcal_100g": 1,
+        "energy-kj_100g": 4,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 0.5
+      },
+      "product_name": "Saveur agrum' zero"
+    },
+    {
+      "code": "5449000241375",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 4.72,
+        "energy-kcal_100g": 19.2,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "sugars_100g": 4.72
+      },
+      "product_name": "Fanta original"
+    },
+    {
+      "code": "8057192000600",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 12.5,
+        "energy-kcal_100g": 55,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 12.5
+      },
+      "product_name": "Ginger beer"
+    },
+    {
+      "code": "8014396003257",
+      "brands": [
+        "Schweppes"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.5,
+        "energy-kcal_100g": 5,
+        "energy-kj_100g": 21,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 0.2
+      },
+      "product_name": "Zero limone"
+    },
+    {
+      "code": "40907000",
+      "brands": [
+        "Coca Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.6,
+        "energy-kj_100g": 180,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.6
+      },
+      "product_name": "Coca Cola"
+    },
+    {
+      "code": "5000112556247",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "energy-kj_100g": 0.9,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca Cola Zero"
+    },
+    {
+      "code": "8002270416583",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.4,
+        "energy-kcal_100g": 36,
+        "energy-kj_100g": 152,
+        "fat_100g": 0,
+        "fiber_100g": 0.1,
+        "proteins_100g": 0.1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 8.3
+      },
+      "product_name": "SAN PELLEGRINO Bois p\u00e9til jus d'orange et de figue de Barbarie 6x33cl"
+    },
+    {
+      "code": "8014396002458",
+      "brands": [
+        "Schweppes"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 12.1,
+        "energy-kcal_100g": 52,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0.1,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 11.4
+      },
+      "product_name": "Schweppes Limone"
+    },
+    {
+      "code": "8001120926654",
+      "brands": [
+        "Coop"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 6.7,
+        "energy-kcal_100g": 29,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 6.7
+      },
+      "product_name": "Aranciata"
+    },
+    {
+      "code": "8017596008145",
+      "brands": [
+        "Eurospin"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11,
+        "energy-kcal_100g": 43,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11
+      },
+      "product_name": "Blues Cola"
+    },
+    {
+      "code": "8024370018894",
+      "brands": [
+        "Penny"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11,
+        "energy-kcal_100g": 43,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11
+      },
+      "product_name": "vito"
+    },
+    {
+      "code": "8057192001522",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "energy-kcal_100g": 40,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 9.5
+      },
+      "product_name": "Oran soda"
+    },
+    {
+      "code": "8018005208316",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 14,
+        "energy-kcal_100g": 56,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0.1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 13.2
+      },
+      "product_name": "Aranciata rossa"
+    },
+    {
+      "code": "8019730025834",
+      "brands": [
+        "MD"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.1,
+        "energy-kcal_100g": 0.4,
+        "energy-kj_100g": 1.8,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Cola zero"
+    },
+    {
+      "code": "8003170074095",
+      "brands": [
+        "Conad"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.3,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca cola senza zuccheri"
+    },
+    {
+      "code": "8025916104095",
+      "brands": [
+        "Todis"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 2.5,
+        "energy-kcal_100g": 10,
+        "energy-kj_100g": 44,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 2.5
+      },
+      "product_name": "Aranciata zero"
+    },
+    {
+      "code": "8018005440099",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.5,
+        "energy-kcal_100g": 6.5,
+        "fat_100g": 0.024,
+        "proteins_100g": 0.06,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1.5
+      },
+      "product_name": "Mandarino al limone"
+    },
+    {
+      "code": "8057192001034",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13,
+        "energy-kcal_100g": 52,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 12
+      },
+      "product_name": "Lemonsoda"
+    },
+    {
+      "code": "8012666506316",
+      "brands": [
+        "Terre d'Italia",
+        " Carrefour"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 14,
+        "energy-kcal_100g": 58,
+        "fat_100g": 0.5,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 14
+      },
+      "product_name": "Bergamotto"
+    },
+    {
+      "code": "8017596068415",
+      "brands": [
+        "Eurospin",
+        "Blues"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11,
+        "energy-kcal_100g": 43,
+        "energy-kj_100g": 183,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11
+      },
+      "product_name": "Cola"
+    },
+    {
+      "code": "8057192002703",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 14,
+        "energy-kcal_100g": 56,
+        "energy-kj_100g": 238,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.034,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.0136,
+        "sugars_100g": 12
+      },
+      "product_name": "Lemonsoda Energy Activator - Lemon"
+    },
+    {
+      "code": "8018005208422",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 15.199999809265,
+        "energy-kcal_100g": 61.5,
+        "fat_100g": 0.024000000208616,
+        "proteins_100g": 0.059999998658895,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 15.199999809265
+      },
+      "product_name": "Mandarino Verde di Sicilia"
+    },
+    {
+      "code": "0200030236596",
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Hyldeblomstsmag og brus El"
+    },
+    {
+      "code": "8018005301062",
+      "brands": [
+        "Frizz"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.13,
+        "energy-kcal_100g": 5,
+        "fat_100g": 0,
+        "proteins_100g": 0.06,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1.13
+      },
+      "product_name": "frizz cola"
+    },
+    {
+      "code": "9009700310618",
+      "brands": [
+        "V\u00f6slauer"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 43,
+        "energy-kcal_100g": 8,
+        "energy-kj_100g": 81,
+        "fat_100g": 0.1,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0.1,
+        "sodium_100g": 0.004,
+        "sugars_100g": 43
+      },
+      "product_name": "bio limonade"
+    },
+    {
+      "code": "8018005720832",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.5,
+        "energy-kcal_100g": 38,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 8.5
+      },
+      "product_name": "Limone e zenzero di Sicilia"
+    },
+    {
+      "code": "8018005974754",
+      "nutriments": {
+        "carbohydrates_100g": 10.1,
+        "energy-kcal_100g": 41,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.1
+      },
+      "product_name": "Cola con estratto di Noci di Cola"
+    },
+    {
+      "code": "8018005005564",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 2.2,
+        "energy-kcal_100g": 37,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 2
+      },
+      "product_name": "fruit the"
+    },
+    {
+      "code": "8003100802743",
+      "brands": [
+        "Selex"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 9.9,
+        "energy-kcal_100g": 40,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 9.9
+      },
+      "product_name": "Gassosa"
+    },
+    {
+      "code": "8002270866791",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.8,
+        "energy-kcal_100g": 38,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0.1,
+        "salt_100g": 4,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 1.6,
+        "sugars_100g": 8.8
+      },
+      "product_name": "ARANCIATA AMARA"
+    },
+    {
+      "code": "8018005727138",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11.4,
+        "energy-kcal_100g": 48,
+        "fat_100g": 0,
+        "proteins_100g": 31,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11
+      },
+      "product_name": "Arancia Rossa"
+    },
+    {
+      "code": "15654069",
+      "product_name": "Cocacola"
+    },
+    {
+      "code": "5449000148728",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "coca cola zero"
+    },
+    {
+      "code": "15781714",
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 12,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "coca cola"
+    },
+    {
+      "code": "8002270726798",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8,
+        "energy-kcal_100g": 35,
+        "fat_100g": 0,
+        "fiber_100g": 0.1,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 8
+      },
+      "product_name": "Limonata"
+    },
+    {
+      "code": "6132007700073",
+      "brands": [
+        "coca cola"
+      ],
+      "nutriments": {
+        "energy-kj_100g": 840,
+        "fat_100g": 0,
+        "salt_100g": 0.052,
+        "sodium_100g": 0.0208,
+        "sugars_100g": 26.5
+      },
+      "product_name": "coca cola"
+    },
+    {
+      "code": "8018005301697",
+      "brands": [
+        "Frizz"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.9,
+        "energy-kcal_100g": 9.46,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0.06,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1.9
+      },
+      "product_name": "Limonata"
+    },
+    {
+      "code": "8014396444623",
+      "brands": [
+        "Schweppes"
+      ],
+      "product_name": "Schweppes"
+    },
+    {
+      "code": "8057192003830",
+      "nutriments": {
+        "carbohydrates_100g": 1,
+        "energy-kcal_100g": 6,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Lemon soda Zero"
+    },
+    {
+      "code": "4017434001257",
+      "brands": [
+        "Bad Brambacher"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 4.4,
+        "energy-kcal_100g": 78,
+        "energy-kj_100g": 77,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 3.9
+      },
+      "product_name": "naturell Tee-Variation"
+    },
+    {
+      "code": "8002895052173",
+      "brands": [
+        "crai",
+        " piaceri italiani"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.5,
+        "energy-kcal_100g": 34,
+        "energy-kj_100g": 144,
+        "sugars_100g": 8.5
+      },
+      "product_name": "Limone e zenzero"
+    },
+    {
+      "code": "5449000314987",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.3,
+        "energy-kcal_100g": 3,
+        "energy-kj_100g": 11,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 0.3
+      },
+      "product_name": "Fanta Mango"
+    },
+    {
+      "code": "8018005005281",
+      "nutriments": {
+        "carbohydrates_100g": 8,
+        "energy-kcal_100g": 132,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 8
+      },
+      "product_name": "Acqua tonica"
+    },
+    {
+      "code": "8018005005519",
+      "nutriments": {
+        "carbohydrates_100g": 7,
+        "energy-kcal_100g": 28,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 7
+      },
+      "product_name": "Acqua tonica"
+    },
+    {
+      "code": "8018005370211",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 15.2,
+        "energy-kcal_100g": 61,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0.06,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 15
+      },
+      "product_name": "Mandarino verde di sicilia"
+    },
+    {
+      "code": "20243258",
+      "brands": [
+        "Tomarchio"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 73,
+        "energy-kcal_100g": 396,
+        "fat_100g": 9.9,
+        "fiber_100g": 2.3,
+        "proteins_100g": 2,
+        "salt_100g": 0.1,
+        "saturated-fat_100g": 6.2,
+        "sodium_100g": 0.04,
+        "sugars_100g": 72
+      },
+      "product_name": "Erfrischungsst\u00e4bchen Orange-Zitrone"
+    },
+    {
+      "code": "8002270206887",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8,
+        "energy-kcal_100g": 35,
+        "fat_100g": 0,
+        "fiber_100g": 0.1,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 8
+      },
+      "product_name": "Limonata Sanpellegrino"
+    },
+    {
+      "code": "8014396004018",
+      "brands": [
+        "Schweppes"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.5,
+        "energy-kcal_100g": 5,
+        "energy-kj_100g": 21,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 0.2
+      },
+      "product_name": "Zero Limone"
+    },
+    {
+      "code": "3560071420819",
+      "brands": [
+        "Carrefour"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.5,
+        "energy-kcal_100g": 34,
+        "energy-kj_100g": 145,
+        "sugars_100g": 8.4
+      },
+      "product_name": "Cola"
+    },
+    {
+      "code": "3250393181382",
+      "brands": [
+        "Look"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 7,
+        "energy-kcal_100g": 28,
+        "fat_100g": 0.5,
+        "proteins_100g": 0.5,
+        "saturated-fat_100g": 0.18,
+        "sugars_100g": 7
+      },
+      "product_name": "Look Limonade"
+    },
+    {
+      "code": "8005476006923",
+      "brands": [
+        "Auchan"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13,
+        "energy-kcal_100g": 52,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 13
+      },
+      "product_name": "Chinotto"
+    },
+    {
+      "code": "0005944200938",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 48,
+        "energy-kcal_100g": 189,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 48
+      },
+      "product_name": "Cocacola"
+    },
+    {
+      "code": "8033520500790",
+      "brands": [
+        "MaxiD\u00ec"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 2,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Cola zero skyway"
+    },
+    {
+      "code": "40822938",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.5,
+        "energy-kcal_100g": 43,
+        "energy-kj_100g": 183,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.5
+      },
+      "product_name": "Fanta Naranja"
+    },
+    {
+      "code": "5942321000213",
+      "brands": [
+        "Coca Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.4,
+        "energy-kcal_100g": 34,
+        "energy-kj_100g": 146,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "sodium_100g": 0.004,
+        "sugars_100g": 8.4
+      },
+      "product_name": "Fanta Madness cu suc de struguri"
+    },
+    {
+      "code": "5449000131836",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.4,
+        "energy-kj_100g": 1.6,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Zero Sugar"
+    },
+    {
+      "code": "5449000133328",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "energy-kj_100g": 0.9,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca-Cola Zero"
+    },
+    {
+      "code": "3560070103294",
+      "brands": [
+        "Carrefour"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 7.1,
+        "energy-kcal_100g": 28,
+        "energy-kj_100g": 121,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.03,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.012,
+        "sugars_100g": 7.1
+      },
+      "product_name": "Saveur Lemon Lime*"
+    },
+    {
+      "code": "20308025",
+      "brands": [
+        "Freeway"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 24.2,
+        "energy-kcal_100g": 170,
+        "energy-kj_100g": 3,
+        "fat_100g": 5.1,
+        "fiber_100g": 0,
+        "proteins_100g": 5.3,
+        "salt_100g": 1.35,
+        "saturated-fat_100g": 1.1,
+        "sodium_100g": 0.54,
+        "sugars_100g": 4
+      },
+      "product_name": "Udon Nudeln Taste of Asia (Japan Style)"
+    },
+    {
+      "code": "3560071169640",
+      "brands": [
+        "Carrefour"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 5,
+        "energy-kcal_100g": 21,
+        "energy-kj_100g": 90,
+        "fat_100g": 0,
+        "fiber_100g": 0.5,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 5
+      },
+      "product_name": "Fresh TONIC"
+    },
+    {
+      "code": "8017596104526",
+      "brands": [
+        "Eurospin"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1,
+        "energy-kcal_100g": 4,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1
+      },
+      "product_name": "Limonata zero"
+    },
+    {
+      "code": "4060800001740",
+      "brands": [
+        "pepsi"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11.2,
+        "energy-kcal_100g": 41.2,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.004,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.0016,
+        "sugars_100g": 11.2
+      },
+      "product_name": "pepsi"
+    },
+    {
+      "code": "5000112594218",
+      "brands": [
+        "The Coca-Cola Company",
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kj_100g": 0.9,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca cola Zero"
+    },
+    {
+      "code": "5449000050205",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "energy-kj_100g": 0.8,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca-Cola Light"
+    },
+    {
+      "code": "5449000282781",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.6,
+        "energy-kcal_100g": 42,
+        "energy-kj_100g": 180,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.6
+      },
+      "product_name": "Coca-Cola"
+    },
+    {
+      "code": "5449000050809",
+      "brands": [
+        "Fanta",
+        " The Coca-Cola Company"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11.8,
+        "energy-kcal_100g": 48,
+        "energy-kj_100g": 205,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11.8
+      },
+      "product_name": "Fanta Original"
+    },
+    {
+      "code": "3560070254040",
+      "brands": [
+        "Carrefour"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 6.1,
+        "energy-kcal_100g": 25,
+        "energy-kj_100g": 119,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.03,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.012,
+        "sugars_100g": 6.1
+      },
+      "product_name": "Saveur agrum'"
+    },
+    {
+      "code": "8050503672022",
+      "brands": [
+        "Terra Viva"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 7.2,
+        "energy-kcal_100g": 29.3,
+        "energy-kj_100g": 123,
+        "fat_100g": 0.01,
+        "fiber_100g": 0.09,
+        "proteins_100g": 0.05,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 7.1
+      },
+      "product_name": "Limonata"
+    },
+    {
+      "code": "8001160004015",
+      "brands": [
+        "Pepsi-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.2,
+        "energy-kcal_100g": 0.6,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.1,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.04,
+        "sugars_100g": 0.1
+      },
+      "product_name": "Pepsi MAX zero zucchero"
+    },
+    {
+      "code": "3560071176457",
+      "brands": [
+        "Carrefour BioCarrefour",
+        "Carrefour Express",
+        "Carrefour City"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 5.9,
+        "energy-kcal_100g": 25,
+        "energy-kj_100g": 108,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 5.5
+      },
+      "product_name": "Limonade"
+    },
+    {
+      "code": "5449000177650",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.0195,
+        "sodium_100g": 0.0078
+      },
+      "product_name": "Coca-Cola Zero"
+    },
+    {
+      "code": "8017596011879",
+      "brands": [
+        "Blues",
+        " Eurospin"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 12.5,
+        "energy-kcal_100g": 50,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 12.5
+      },
+      "product_name": "CHINOTTO"
+    },
+    {
+      "code": "8017596102126",
+      "brands": [
+        "Blues",
+        " Eurospin"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.9,
+        "energy-kcal_100g": 44,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.9
+      },
+      "product_name": "Chinotto"
+    },
+    {
+      "code": "8007885003579",
+      "brands": [
+        "Galvanina"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13,
+        "energy-kcal_100g": 52,
+        "energy-kj_100g": 221,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.03,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.012,
+        "sugars_100g": 13
+      },
+      "product_name": "Chinotto Bio"
+    },
+    {
+      "code": "8002270736803",
+      "brands": [
+        "San Pellegrino",
+        "Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.8,
+        "energy-kcal_100g": 38,
+        "energy-kj_100g": 161,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.004,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.0016,
+        "sugars_100g": 8.8
+      },
+      "product_name": "Aranciata amara"
+    },
+    {
+      "code": "8032919465122",
+      "brands": [
+        "lurisia"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.4,
+        "energy-kcal_100g": 42,
+        "energy-kj_100g": 177,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.4
+      },
+      "product_name": "Acqua tonica con limone e chinotto"
+    },
+    {
+      "code": "8017596067197",
+      "brands": [
+        "Eurospin"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13,
+        "energy-kcal_100g": 54,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 13
+      }
+    },
+    {
+      "code": "5449000289421",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.4,
+        "energy-kcal_100g": 4,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0.4
+      },
+      "product_name": "Fanta limonata"
+    },
+    {
+      "code": "8001620012420",
+      "brands": [
+        "San Benedetto"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 1,
+        "energy-kj_100g": 4,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.05,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.02,
+        "sugars_100g": 0
+      },
+      "product_name": "Ginger Zero"
+    },
+    {
+      "code": "8001620012437",
+      "brands": [
+        "San Benedetto"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 1,
+        "energy-kj_100g": 4,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.06,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.024,
+        "sugars_100g": 0
+      },
+      "product_name": "Chinotto Zero"
+    },
+    {
+      "code": "90162800",
+      "brands": [
+        "Red Bull"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 2.4,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.0001,
+        "sodium_100g": 4e-05
+      },
+      "product_name": "Red Bull sugarfree"
+    },
+    {
+      "code": "8018005720276",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 12.9,
+        "energy-kcal_100g": 51.7,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.00995,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.00398,
+        "sugars_100g": 12.9
+      },
+      "product_name": "Chiosco mandarino"
+    },
+    {
+      "code": "8014396003165",
+      "brands": [
+        "Schweppes"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "energy-kcal_100g": 42,
+        "energy-kj_100g": 179,
+        "fat_100g": 0,
+        "proteins_100g": 0.1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10
+      },
+      "product_name": "Schweppes"
+    },
+    {
+      "code": "90375323",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "energy-kj_100g": 0.9,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca cola zero"
+    },
+    {
+      "code": "8003170003675",
+      "brands": [
+        "Conad"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11,
+        "energy-kcal_100g": 44,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.9
+      },
+      "product_name": "Cola Premium"
+    },
+    {
+      "code": "8032919465078",
+      "brands": [
+        "Lurisia",
+        " SIBIL srl"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 12.4,
+        "energy-kcal_100g": 51,
+        "energy-kj_100g": 217,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 12.4
+      },
+      "product_name": "Il nostro chinotto"
+    },
+    {
+      "code": "8712857008109",
+      "brands": [
+        "Tropical"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.8,
+        "energy-kcal_100g": 35,
+        "fat_100g": 0,
+        "fiber_100g": 0.05,
+        "proteins_100g": 0,
+        "salt_100g": 0.1,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.04,
+        "sugars_100g": 8.5
+      },
+      "product_name": "Aloe Lemon"
+    },
+    {
+      "code": "5449000265098",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.4,
+        "energy-kcal_100g": 42,
+        "energy-kj_100g": 177,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.04,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.016,
+        "sugars_100g": 10.4
+      },
+      "product_name": "CocaCola Energy"
+    },
+    {
+      "code": "8002270946561",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.6,
+        "energy-kcal_100g": 37,
+        "energy-kj_100g": 156,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0.1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 8.6
+      },
+      "product_name": "Boisson aranciata amara"
+    },
+    {
+      "code": "8017596062116",
+      "brands": [
+        "Blues",
+        " Eurospin"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11,
+        "energy-kcal_100g": 43,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11
+      },
+      "product_name": "Limonata"
+    },
+    {
+      "code": "8017596007001",
+      "brands": [
+        "blues",
+        " Eurospin"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 12,
+        "energy-kcal_100g": 48,
+        "fat_100g": 0,
+        "proteins_100g": 0.1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 12
+      },
+      "product_name": "Aranciata (con arance siciliane)"
+    },
+    {
+      "code": "8002270236778",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "energy-kcal_100g": 42,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 10
+      },
+      "product_name": "Chin\u00f2"
+    },
+    {
+      "code": "8017596068392",
+      "brands": [
+        "Blues",
+        "Eurospin"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11,
+        "energy-kcal_100g": 48,
+        "energy-kj_100g": 201,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11
+      },
+      "product_name": "Blues Aranciata"
+    },
+    {
+      "code": "8017596063106",
+      "brands": [
+        "blues",
+        " Eurospin"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.1,
+        "energy-kcal_100g": 0.4,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Cola zero Blues"
+    },
+    {
+      "code": "5000112594201",
+      "brands": [
+        "Coca-Cola",
+        "Coca-Cola-light"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.3,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca cola light taste"
+    },
+    {
+      "code": "5000112600186",
+      "brands": [
+        "Cocacola",
+        "Coca-Cola-light"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.3,
+        "energy-kj_100g": 1.4,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca cola Zero Zuccheri"
+    },
+    {
+      "code": "8002270266775",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.1,
+        "energy-kcal_100g": 41,
+        "fat_100g": 0,
+        "proteins_100g": 0.1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.1
+      },
+      "product_name": "Aranciata"
+    },
+    {
+      "code": "8054377870027",
+      "brands": [
+        "Molecola",
+        " Trinka"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.6,
+        "energy-kcal_100g": 42,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.6
+      },
+      "product_name": "Mole cola"
+    },
+    {
+      "code": "40608006",
+      "brands": [
+        "Pepsi"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 7,
+        "energy-kcal_100g": 28,
+        "energy-kj_100g": 119,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 7
+      },
+      "product_name": "pepsi"
+    },
+    {
+      "code": "8002270033902",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 15,
+        "energy-kcal_100g": 62,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 15
+      },
+      "product_name": "Sanbitter"
+    },
+    {
+      "code": "5449000000989",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11.1,
+        "energy-kcal_100g": 44,
+        "fat_100g": 0,
+        "fiber_100g": 1.5,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11.1
+      }
+    },
+    {
+      "code": "8057192001447",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "energy-kcal_100g": 40,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 9.5
+      },
+      "product_name": "Oran soda"
+    },
+    {
+      "code": "8001620012406",
+      "brands": [
+        "San Benedetto"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.1,
+        "energy-kcal_100g": 6,
+        "energy-kj_100g": 25,
+        "fat_100g": 0,
+        "fiber_100g": 0.75,
+        "proteins_100g": 0.1,
+        "salt_100g": 0.04,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.016,
+        "sugars_100g": 1.1
+      },
+      "product_name": "Zero allegra con succo d'agrumi"
+    },
+    {
+      "code": "8002270596575",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 25.3,
+        "energy-kcal_100g": 103,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 3,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 25.3
+      },
+      "product_name": "l'Aranciata"
+    },
+    {
+      "code": "8018005301291",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 9.5,
+        "energy-kcal_100g": 38,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0.1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 9
+      },
+      "product_name": "Arancia rossa"
+    },
+    {
+      "code": "8001620012444",
+      "brands": [
+        "San Benedetto"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.1,
+        "energy-kcal_100g": 6,
+        "energy-kj_100g": 25,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.05,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.02,
+        "sugars_100g": 1
+      },
+      "product_name": "Pompelmo zero"
+    },
+    {
+      "code": "5000112581348",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.8,
+        "energy-kcal_100g": 42,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.8
+      },
+      "product_name": "Coca-Cola"
+    },
+    {
+      "code": "8017596101532",
+      "brands": [
+        "Blues",
+        " Eurospin"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.8,
+        "energy-kcal_100g": 9,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1.8
+      },
+      "product_name": "aranciata zero"
+    },
+    {
+      "code": "5000112528305",
+      "brands": [
+        "Coca-Cola",
+        "Coca Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10.6,
+        "energy-kcal_100g": 42,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.6
+      },
+      "product_name": "Coca-Cola original taste"
+    },
+    {
+      "code": "9100000114507",
+      "brands": [
+        "Spar",
+        "Vital"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 3,
+        "energy-kcal_100g": 13,
+        "fat_100g": 0.5,
+        "fiber_100g": 0,
+        "proteins_100g": 0.5,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0.1,
+        "sodium_100g": 0,
+        "sugars_100g": 2.9
+      },
+      "product_name": "Apfel Litschi gespritzt"
+    },
+    {
+      "code": "3560070823673",
+      "brands": [
+        "Produits blancs",
+        "Carrefour"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.4,
+        "energy-kcal_100g": 6,
+        "energy-kj_100g": 26,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 1.4
+      },
+      "product_name": "Pulp'Orange* Soda"
+    },
+    {
+      "code": "8002270396588",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.4,
+        "energy-kcal_100g": 36,
+        "energy-kj_100g": 152,
+        "fat_100g": 0,
+        "fiber_100g": 0.1,
+        "proteins_100g": 0.1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 8.3
+      },
+      "product_name": "SANPELLEGRINO Bois p\u00e9til au jus d'orange et de figue de Barbarie 33cl"
+    },
+    {
+      "code": "8057192000204",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11,
+        "energy-kcal_100g": 44,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 11
+      },
+      "product_name": "Pelmo soda"
+    },
+    {
+      "code": "8001160003605",
+      "brands": [
+        "Pepsi"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.1,
+        "energy-kcal_100g": 0.6,
+        "energy-kj_100g": 3,
+        "fat_100g": 0,
+        "proteins_100g": 0.1,
+        "salt_100g": 0.01,
+        "sodium_100g": 0.004
+      },
+      "product_name": "Pepsi Cola Max Lattina CL 33"
+    },
+    {
+      "code": "9002490208592",
+      "brands": [
+        "Red Bull"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 3,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.1,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.04,
+        "sugars_100g": 0
+      },
+      "product_name": "Energy Drink"
+    },
+    {
+      "code": "5449000169358",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "energy-kj_100g": 0.9,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca Cola Z\u00e9ro sans caf\u00e9ine"
+    },
+    {
+      "code": "51013861",
+      "brands": [
+        "Lemon soda"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13,
+        "energy-kj_100g": 221,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 13
+      },
+      "product_name": "Lemon soda"
+    },
+    {
+      "code": "5000112636208",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11.8,
+        "energy-kcal_100g": 48,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11.8
+      },
+      "product_name": "Fanta"
+    },
+    {
+      "code": "8002895004301",
+      "brands": [
+        "Crai"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1,
+        "energy-kcal_100g": 5,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0.006,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1
+      },
+      "product_name": "Gassosa"
+    },
+    {
+      "code": "20256357",
+      "nutriments": {
+        "carbohydrates_100g": 2,
+        "energy-kcal_100g": 9,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 2
+      },
+      "product_name": "gassosa"
+    },
+    {
+      "code": "8057192000402",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "energy-kcal_100g": 40,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 9.5
+      },
+      "product_name": "Oransoda pet"
+    },
+    {
+      "code": "8009980895608",
+      "product_name": "Aper soda aperitivo"
+    },
+    {
+      "code": "8057192002727",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 9,
+        "energy-kcal_100g": 36,
+        "fat_100g": 0,
+        "proteins_100g": 0.002,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 9
+      },
+      "product_name": "Tropical trip"
+    },
+    {
+      "code": "8018005720863",
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "energy-kcal_100g": 40,
+        "fat_100g": 10,
+        "proteins_100g": 0.06,
+        "salt_100g": 0.4,
+        "saturated-fat_100g": 10,
+        "sodium_100g": 0.16,
+        "sugars_100g": 10
+      },
+      "product_name": "Ginger beer"
+    },
+    {
+      "code": "8018005827043",
+      "nutriments": {
+        "carbohydrates_100g": 10.5,
+        "energy-kcal_100g": 42,
+        "fat_100g": 0,
+        "proteins_100g": 0.1,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10.5
+      },
+      "product_name": "Chinotto Bio Sicilia"
+    },
+    {
+      "code": "8018005827005",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.5,
+        "energy-kcal_100g": 35,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 8.5
+      },
+      "product_name": "Gassosa Bio Sicilia"
+    },
+    {
+      "code": "8004180784103",
+      "brands": [
+        "Dilmoor"
+      ],
+      "nutriments": {
+        "salt_100g": 0,
+        "sodium_100g": 0
+      },
+      "product_name": "Bitter"
+    },
+    {
+      "code": "8001620012994",
+      "brands": [
+        "Get up",
+        " IN's",
+        " San Benedetto"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 1,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.1,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.04,
+        "sugars_100g": 0
+      },
+      "product_name": "Gazzosa Zero"
+    },
+    {
+      "code": "8018005440082",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.7999999523163,
+        "energy-kcal_100g": 9,
+        "fat_100g": 0.024000000208616,
+        "proteins_100g": 0.059999998658895,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1.7999999523163
+      },
+      "product_name": "Mandarino verde di sicilia"
+    },
+    {
+      "code": "8057192000716",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "energy-kcal_100g": 40,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 9.5
+      },
+      "product_name": "Oran Soda"
+    },
+    {
+      "code": "8018005302014",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 2.2,
+        "energy-kcal_100g": 8.7,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 2
+      },
+      "product_name": "Fruit th\u00e9 alla pesca"
+    },
+    {
+      "code": "4099200259239",
+      "nutriments": {
+        "carbohydrates_100g": 0.5,
+        "energy-kcal_100g": 1,
+        "fat_100g": 0.5,
+        "proteins_100g": 0.5,
+        "saturated-fat_100g": 0.10000000149012,
+        "sugars_100g": 0.5
+      },
+      "product_name": "Soda limette -minze"
+    },
+    {
+      "code": "8018005720177",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13.1,
+        "energy-kcal_100g": 54.5,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.00995,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.00398,
+        "sugars_100g": 13.1
+      },
+      "product_name": "Spuma"
+    },
+    {
+      "code": "8057192002901",
+      "brands": [
+        "Terme di Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 69,
+        "energy-kcal_100g": 10,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 2
+      }
+    },
+    {
+      "code": "8002270796807",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 9.9,
+        "energy-kcal_100g": 178,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 9.9
+      },
+      "product_name": "Chin\u00f2"
+    },
+    {
+      "code": "8025916111673",
+      "brands": [
+        "Todis"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 9,
+        "energy-kcal_100g": 6,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1.2
+      },
+      "product_name": "Pompelmo zero"
+    },
+    {
+      "code": "5449000225245",
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.2,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.08,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca cola"
+    },
+    {
+      "code": "90448898",
+      "brands": [
+        "Red Bull"
+      ],
+      "product_name": "Red Bull Summer Edition"
+    },
+    {
+      "code": "8009980895622",
+      "brands": [
+        "Spumador"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.6,
+        "energy-kcal_100g": 36,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 8.6
+      },
+      "product_name": "Tonic Water Original Limited Edition"
+    },
+    {
+      "code": "8025916117507",
+      "brands": [
+        "Todis"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1,
+        "energy-kcal_100g": 4,
+        "energy-kj_100g": 17,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0.06,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1
+      },
+      "product_name": "Cedrata"
+    },
+    {
+      "code": "8018005827111",
+      "brands": [
+        "Polara"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.1,
+        "energy-kcal_100g": 32,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 8
+      },
+      "product_name": "The limone"
+    },
+    {
+      "code": "8050327350113",
+      "brands": [
+        "Crodo"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "energy-kj_100g": 170,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 9.5
+      },
+      "product_name": "Oransoda"
+    },
+    {
+      "code": "8002270796746",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 9.9,
+        "energy-kcal_100g": 42,
+        "energy-kj_100g": 178,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.04,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.016,
+        "sugars_100g": 9.9
+      },
+      "product_name": "Chinotto"
+    },
+    {
+      "code": "8059693040024",
+      "nutriments": {
+        "carbohydrates_100g": 10,
+        "energy-kcal_100g": 42,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 10
+      },
+      "product_name": "Bibicaff\u00e8"
+    },
+    {
+      "code": "4304493267886",
+      "nutriments": {
+        "carbohydrates_100g": 13,
+        "energy-kcal_100g": 54,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 13
+      },
+      "product_name": "L'aperitivo analcolico ginger"
+    },
+    {
+      "code": "80128601",
+      "brands": [
+        "Conad"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 1.7,
+        "energy-kcal_100g": 9,
+        "energy-kj_100g": 37,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 1.7
+      }
+    },
+    {
+      "code": "8006290805440",
+      "brands": [
+        "Ferrarelle"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 9.8,
+        "energy-kcal_100g": 41,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 9.8
+      },
+      "product_name": "Gassosa"
+    },
+    {
+      "code": "8003963239045",
+      "brands": [
+        "Snell-up",
+        "Spumador"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Cola"
+    },
+    {
+      "code": "3560071420840",
+      "brands": [
+        "Carrefour"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.5,
+        "energy-kcal_100g": 34,
+        "energy-kj_100g": 145,
+        "sugars_100g": 8.4
+      },
+      "product_name": "Cola"
+    },
+    {
+      "code": "8003170074606",
+      "brands": [
+        "Conad"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.3,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "saturated-fat_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "CONAD Cola zero zuccheri"
+    },
+    {
+      "code": "5449000214799",
+      "brands": [
+        "Coca Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.3,
+        "energy-kj_100g": 1.4,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coke zero"
+    },
+    {
+      "code": "8009980456168",
+      "brands": [
+        "Spumador"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11,
+        "energy-kcal_100g": 46,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11
+      },
+      "product_name": "Aranciata"
+    },
+    {
+      "code": "5000112637977",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13.2,
+        "energy-kcal_100g": 53,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 13.2
+      },
+      "product_name": "Fanta exotic"
+    },
+    {
+      "code": "8431876059236",
+      "brands": [
+        "Carrefour"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0,
+        "energy-kj_100g": 0,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 0
+      },
+      "product_name": "Gaseosa"
+    },
+    {
+      "code": "5000112557688",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 11.8,
+        "energy-kj_100g": 205,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 11.8
+      },
+      "product_name": "Fanta"
+    },
+    {
+      "code": "8017596008336",
+      "brands": [
+        "Eurospin"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 9.1,
+        "energy-kcal_100g": 37,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 9.1
+      },
+      "product_name": "Gassosa"
+    },
+    {
+      "code": "5060166690205",
+      "brands": [
+        "Monster Energy"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 12,
+        "energy-kcal_100g": 47,
+        "energy-kj_100g": 201,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.19,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.076,
+        "sugars_100g": 11
+      },
+      "product_name": "monster"
+    },
+    {
+      "code": "5000112584370",
+      "brands": [
+        "Fanta"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 13.2,
+        "energy-kcal_100g": 53,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 13.2
+      },
+      "product_name": "Fanta Exotic"
+    },
+    {
+      "code": "5449000309631",
+      "brands": [
+        "Coca cola zero"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "energy-kj_100g": 0.9,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca Cola Zero Zuccheri Zero Caffeina"
+    },
+    {
+      "code": "5060896625492",
+      "brands": [
+        "Monster"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.8,
+        "energy-kcal_100g": 3,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.16,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.064,
+        "sugars_100g": 0
+      },
+      "product_name": "Monster Lewis Hamilton Zero Sugar"
+    },
+    {
+      "code": "8002270706806",
+      "brands": [
+        "San Pellegrino",
+        " Nestl\u00e9"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 8.9,
+        "energy-kcal_100g": 38,
+        "energy-kj_100g": 159,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.03,
+        "sodium_100g": 0.012,
+        "sugars_100g": 8.9
+      },
+      "product_name": "Chin\u00f2"
+    },
+    {
+      "code": "8014396004025",
+      "brands": [
+        "Schweppes"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0.3,
+        "energy-kcal_100g": 2,
+        "energy-kj_100g": 10,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.01,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.004,
+        "sugars_100g": 0.2
+      },
+      "product_name": "zero gusto agrumi"
+    },
+    {
+      "code": "8002270066771",
+      "brands": [
+        "San Pellegrino"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 2,
+        "energy-kj_100g": 7,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Cocktail zero"
+    },
+    {
+      "code": "8001620012413",
+      "brands": [
+        "San Benedetto"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 1,
+        "energy-kj_100g": 4,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.05,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.02,
+        "sugars_100g": 0
+      },
+      "product_name": "Gassosa zero"
+    },
+    {
+      "code": "4304493267428",
+      "nutriments": {
+        "carbohydrates_100g": 15,
+        "energy-kcal_100g": 61,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 15
+      },
+      "product_name": "L\u2019Aperitivo analcolico bitter"
+    },
+    {
+      "code": "5449000241320",
+      "brands": [
+        "Coca-Cola",
+        "Coca-Cola-light"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "energy-kj_100g": 0.9,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0.02,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.008,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca Cola Zero"
+    },
+    {
+      "code": "5449000316509",
+      "brands": [
+        "Coca-Cola"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 0.2,
+        "fat_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Coca Cola"
+    },
+    {
+      "code": "0880911163892",
+      "brands": [
+        "Ace Farm"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 9.17,
+        "energy-kcal_100g": 37.5,
+        "fat_100g": 0,
+        "fiber_100g": 0.417,
+        "proteins_100g": 0,
+        "salt_100g": 0.0292,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0.0117,
+        "sugars_100g": 8.33
+      },
+      "product_name": "Aloe Pineapple"
+    },
+    {
+      "code": "4056489516521",
+      "brands": [
+        "Lidl",
+        " Freeway"
+      ],
+      "nutriments": {
+        "carbohydrates_100g": 0,
+        "energy-kcal_100g": 1,
+        "fat_100g": 0,
+        "fiber_100g": 0,
+        "proteins_100g": 0,
+        "salt_100g": 0,
+        "saturated-fat_100g": 0,
+        "sodium_100g": 0,
+        "sugars_100g": 0
+      },
+      "product_name": "Ginger zero"
     }
-  },
-  "took": 28,
-  "timed_out": false,
-  "count": 337,
-  "is_count_exact": true,
-  "warnings": null
+  ]
 }
