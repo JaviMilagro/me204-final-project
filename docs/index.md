@@ -39,7 +39,7 @@ Look at the four countries separately and the picture changes completely.
 ## 4.60 g vs 10.00 g
 Sugar in the typical full-sugar soda, United Kingdom against Italy
 
-![Sugar content by country](docs/sugar_by_country.png)
+![Sugar content by country](sugar_by_country.png)
 
 The typical Italian soft drink contains **more than twice** the sugar of the
 typical British one. Germany and France sit in between, closer to Italy than to
@@ -53,7 +53,7 @@ unchanged originals.
 
 It is doing both.
 
-![Share of sodas with no sugar](docs/diet_by_country.png)
+![Share of sodas with no sugar](diet_by_country.png)
 
 > A quarter of British sodas contain no sugar at all — more than any other
 > country here. And the ones that *do* contain sugar have markedly less of it.
