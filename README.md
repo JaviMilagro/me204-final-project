@@ -56,7 +56,10 @@ Run the three notebooks in order. Each depends on the output of the one before.
 |---|---|---|---|---|
 | 1 | `NB01-Data-Collection.ipynb` | Open Food Facts API | Paginates through every soda for each of the four countries, 100 products per request | `data/raw/united-kingdom.json`, `france.json`, `germany.json`, `italy.json` |
 | 2 | `NB02-Data-Transformation.ipynb` | `data/raw/*.json` | Flattens the nested JSON into one row per product per country, counts missing sugar values, checks for products shared between countries, drops rows with no sugar value | `data/processed/sodas_clean.csv` (6,086 rows) |
-| 3 | `NB03-Data-Analysis.ipynb` | `data/processed/sodas_clean.csv` | Classifies countries by tax status, separates zero-sugar from full-sugar drinks, compares sugar content across countries, produces two charts | `docs/` [confirm — see note below] |
+| 3 | `NB03-Data-Analysis.ipynb` | `data/processed/sodas_clean.csv` | Classifies countries by tax status, separates zero-sugar from full-sugar drinks, compares sugar content across countries, produces two charts | `docs/sugar_by_country.png` & `docs/diet_by_country.png`|
+
+## Findings Charts 
 
 ![Sugar content by country](docs/sugar_by_country.png)
+![Diet Sodas by country](docs/diet_by_country.png)
 
