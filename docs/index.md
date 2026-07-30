@@ -1,4 +1,4 @@
 # ME204 Final Project
 
-- [JaviMilagro](./JaviMilagro.md)
+- [JaviMilagro](./README.md)
 ![A photo of LSE](LSE.jpg)
