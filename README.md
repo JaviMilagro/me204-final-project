@@ -39,14 +39,14 @@ account for reading data.
 
 **One thing you must change, though.** The API's terms ask every user to identify
 themselves with a custom `User-Agent` header containing an app name and a contact
-email. Mine is hardcoded in NB01:
+email. Mine is hidden in a .env file. You have to change that in order to work:
 
 ```python
-HEADERS = {"User-Agent": "ME204-LSE-project/1.0 j.milagro-caro@lse.ac.uk"}
+HEADERS = {"User-Agent": "ME204-LSE-project/1.0 <YOUR EMAIL HERE>"}
 ```
 
-Replace the email with your own before running NB01, so the traffic is attributed
-to you rather than to me.
+Replace the YOUR EMAIL HERE with your own before running NB01, so the traffic is attributed
+to you directly. 
 
 ## Run order
 
