@@ -31,7 +31,7 @@ The project collects **every soda the database holds** for the four countries:
 
 ## How to reproduce
 
-**Python packages:** `pandas`, `plotly`, `requests`. Everything else used
+**Python packages:** `pandas`, `plotly`, `requests`, `os`, `dotenv`. Everything else used
 (`json`, `pathlib`) is in the standard library.
 
 **Credentials: none required.** Open Food Facts does not need an API key or an
